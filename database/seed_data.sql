@@ -1,0 +1,30 @@
+-- Seed data workflow
+-- SQLite does not reliably support portable CSV import through application drivers.
+-- The production-style load path for this project is Python:
+--
+--     python src/main.py
+--
+-- That command:
+-- 1. Generates data/raw/sales_transactions.csv when missing.
+-- 2. Cleans and enriches sales transactions.
+-- 3. Calculates KPI data marts.
+-- 4. Loads these tables into database/sales_dashboard.db:
+--    - sales_transactions
+--    - monthly_revenue_summary
+--    - product_performance
+--    - category_performance
+--    - regional_performance
+--    - sales_channel_performance
+--    - dashboard_kpis
+--
+-- Manual SQLite shell import example after exports exist:
+--
+-- .mode csv
+-- .import --skip 1 data/processed/cleaned_sales.csv sales_transactions
+-- .import --skip 1 data/processed/monthly_revenue_summary.csv monthly_revenue_summary
+-- .import --skip 1 data/processed/product_performance.csv product_performance
+-- .import --skip 1 data/processed/category_performance.csv category_performance
+-- .import --skip 1 data/processed/regional_performance.csv regional_performance
+-- .import --skip 1 data/processed/sales_channel_performance.csv sales_channel_performance
+-- .import --skip 1 data/processed/dashboard_kpis.csv dashboard_kpis
+
