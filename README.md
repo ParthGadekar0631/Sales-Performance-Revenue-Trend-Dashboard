@@ -189,11 +189,4 @@ Typical analysis questions answered by this project:
 - Add customer cohort, retention, and repeat purchase analysis.
 - Add margin and profitability fields when cost data becomes available.
 
-## Resume-Worthy Impact Metrics
-
-- Built a modular Python and SQL analytics pipeline processing 50K+ sales transactions.
-- Reduced manual reporting effort by approximately 40% through automated KPI generation.
-- Improved reporting accuracy by approximately 35% through validation, standardization, and repeatable calculations.
-- Created Tableau-ready data marts for executive, product, category, regional, and channel reporting.
-- Designed a GitHub-ready analytics engineering project with tests, documentation, SQL, and business reports.
 
