@@ -1,0 +1,1001 @@
+transaction_id,transaction_date,customer_id,product_id,product_name,category,quantity,unit_price,discount,region,sales_channel,payment_method
+TXN1000000,2025-08-07,CUST012711,P5001,Project Management Suite,Software,1,41.95,0.05,International,Partner,Credit Card
+TXN1000001,2023-09-23,CUST007256,P3001,Coffee Maker,Home & Kitchen,7,123.28,0.15,International,Wholesale,Credit Card
+TXN1000002,2024-07-09,CUST007326,P5002,Analytics Platform License,Software,3,244.46,0.05,Midwest,Retail Store,PayPal
+TXN1000003,2022-08-20,CUST004580,P4003,Travel Backpack,Apparel,4,79.36,0.0,South,Retail Store,Debit Card
+TXN1000004,2024-02-22,CUST009280,P1002,Wireless Headphones,Electronics,2,161.22,0.15,West,Wholesale,ACH
+TXN1000005,2023-10-06,CUST015967,P6001,Commercial Printer,Office Supplies,6,451.46,0.0,Midwest,Online,Credit Card
+TXN1000006,2023-12-15,CUST014267,P5001,Project Management Suite,Software,4,44.69,0.1,West,Online,Credit Card
+TXN1000007,2022-10-19,CUST012781,P5001,Project Management Suite,Software,1,38.79,0.05,West,Online,ACH
+TXN1000008,2025-07-14,CUST013835,P1002,Wireless Headphones,Electronics,1,153.98,0.15,South,Online,Debit Card
+TXN1000009,2022-05-22,CUST010099,P3001,Coffee Maker,Home & Kitchen,1,111.59,0.1,Midwest,Online,Debit Card
+TXN1000010,2025-03-02,CUST011982,P2002,Standing Desk,Furniture,5,485.49,0.15,South,Partner,ACH
+TXN1000011,2025-11-01,CUST014824,P5003,Security Monitoring Plan,Software,1,153.37,0.25,International,Retail Store,Credit Card
+TXN1000012,2022-06-30,CUST011036,P4001,Running Shoes,Apparel,1,120.56,0.0,South,Online,Debit Card
+TXN1000013,2023-10-19,CUST007497,P5002,Analytics Platform License,Software,1,242.11,0.1,Northeast,Online,PayPal
+TXN1000014,2024-05-30,CUST008845,P3001,Coffee Maker,Home & Kitchen,5,123.02,0.05,South,Retail Store,Debit Card
+TXN1000015,2025-12-22,CUST001207,P1004,4K Monitor,Electronics,4,342.06,0.0,Northeast,Retail Store,Debit Card
+TXN1000016,2025-07-13,CUST012039,P3003,Cookware Set,Home & Kitchen,3,243.83,0.05,Northeast,Online,PayPal
+TXN1000017,2023-09-23,CUST003445,P1001,Laptop Pro 14,Electronics,1,1331.86,0.05,West,Inside Sales,Debit Card
+TXN1000018,2025-11-28,CUST015968,P5002,Analytics Platform License,Software,1,225.71,0.1,Midwest,Online,Credit Card
+TXN1000019,2023-05-24,CUST015825,P4001,Running Shoes,Apparel,2,108.91,0.1,Northeast,Wholesale,Credit Card
+TXN1000020,2023-06-07,CUST011863,P5001,Project Management Suite,Software,1,36.56,0.2,South,Retail Store,Credit Card
+TXN1000021,2024-01-13,CUST002846,P2002,Standing Desk,Furniture,5,591.16,0.0,South,Online,Credit Card
+TXN1000022,2025-02-27,CUST005720,P6001,Commercial Printer,Office Supplies,1,435.32,0.05,West,Online,Credit Card
+TXN1000023,2022-10-29,CUST011189,P5002,Analytics Platform License,Software,1,237.22,0.2,West,Wholesale,Credit Card
+TXN1000024,2024-12-23,CUST011384,P5001,Project Management Suite,Software,1,46.06,0.0,Northeast,Online,ACH
+TXN1000025,2022-01-06,CUST005488,P1003,Smartphone Max,Electronics,5,863.58,0.2,Northeast,Wholesale,Credit Card
+TXN1000026,2023-01-24,CUST008194,P3001,Coffee Maker,Home & Kitchen,4,119.05,0.2,West,Retail Store,ACH
+TXN1000027,2025-12-05,CUST008162,P1001,Laptop Pro 14,Electronics,4,1432.52,0.1,International,Online,Credit Card
+TXN1000028,2024-09-12,CUST011427,P1003,Smartphone Max,Electronics,1,804.87,0.0,International,Online,Invoice
+TXN1000029,2023-11-22,CUST001348,P4002,Performance Jacket,Apparel,5,186.98,0.25,Northeast,Retail Store,Debit Card
+TXN1000030,2024-12-12,CUST002160,P4003,Travel Backpack,Apparel,1,104.17,0.05,South,Online,Credit Card
+TXN1000031,2023-10-21,CUST007636,P6001,Commercial Printer,Office Supplies,1,500.86,0.05,Northeast,Wholesale,Credit Card
+TXN1000032,2022-07-01,CUST000437,P2001,Office Chair,Furniture,3,229.08,0.0,International,Online,Debit Card
+TXN1000033,2023-12-29,CUST004563,P2002,Standing Desk,Furniture,3,547.45,0.0,South,Inside Sales,ACH
+TXN1000034,2025-11-13,CUST002924,P3001,Coffee Maker,Home & Kitchen,7,117.58,0.0,West,Online,Credit Card
+TXN1000035,2023-02-13,CUST002503,P1003,Smartphone Max,Electronics,1,910.16,0.05,South,Online,ACH
+TXN1000036,2022-04-09,CUST005057,P1002,Wireless Headphones,Electronics,2,143.26,0.1,Northeast,Retail Store,Credit Card
+TXN1000037,2024-12-22,CUST012290,P3001,Coffee Maker,Home & Kitchen,5,126.93,0.0,South,Retail Store,ACH
+TXN1000038,2023-11-13,CUST011209,P1004,4K Monitor,Electronics,1,362.58,0.0,International,Partner,Credit Card
+TXN1000039,2023-05-30,CUST014215,P4002,Performance Jacket,Apparel,1,199.96,0.2,West,Online,Debit Card
+TXN1000040,2023-12-19,CUST007979,P3001,Coffee Maker,Home & Kitchen,1,133.87,0.0,Midwest,Wholesale,Credit Card
+TXN1000041,2025-10-13,CUST015046,P5002,Analytics Platform License,Software,5,255.98,0.25,South,Online,PayPal
+TXN1000042,2023-01-01,CUST011509,P4003,Travel Backpack,Apparel,2,90.82,0.05,Northeast,Online,Credit Card
+TXN1000043,2022-11-08,CUST009731,P2001,Office Chair,Furniture,2,213.41,0.1,Northeast,Online,Debit Card
+TXN1000044,2024-03-06,CUST008957,P5002,Analytics Platform License,Software,5,238.97,0.05,Northeast,Retail Store,Invoice
+TXN1000045,2023-11-23,CUST002938,P5001,Project Management Suite,Software,3,35.26,0.15,Midwest,Online,Debit Card
+TXN1000046,2022-09-03,CUST000141,P2003,Bookshelf,Furniture,6,169.69,0.05,West,Online,Credit Card
+TXN1000047,2024-05-23,CUST009360,P2001,Office Chair,Furniture,2,248.1,0.1,South,Partner,PayPal
+TXN1000048,2024-05-13,CUST010695,P4002,Performance Jacket,Apparel,1,187.6,0.05,International,Inside Sales,ACH
+TXN1000049,2024-06-29,CUST000672,P1002,Wireless Headphones,Electronics,1,134.32,0.0,South,Retail Store,Credit Card
+TXN1000050,2023-09-22,CUST002175,P1003,Smartphone Max,Electronics,1,945.74,0.1,Midwest,Partner,Credit Card
+TXN1000051,2023-03-18,CUST009501,P1001,Laptop Pro 14,Electronics,4,1184.27,0.15,Midwest,Online,Credit Card
+TXN1000052,2023-05-20,CUST009258,P5001,Project Management Suite,Software,3,38.55,0.25,West,Wholesale,Credit Card
+TXN1000053,2025-05-29,CUST009394,P4002,Performance Jacket,Apparel,2,202.13,0.1,International,Retail Store,Credit Card
+TXN1000054,2024-07-27,CUST007319,P4003,Travel Backpack,Apparel,2,105.79,0.0,West,Wholesale,Credit Card
+TXN1000055,2023-08-31,CUST007122,P5001,Project Management Suite,Software,1,33.15,0.15,Midwest,Online,Credit Card
+TXN1000056,2024-07-10,CUST012467,P3001,Coffee Maker,Home & Kitchen,3,117.64,0.1,International,Inside Sales,Credit Card
+TXN1000057,2023-06-21,CUST004542,P3003,Cookware Set,Home & Kitchen,3,275.07,0.1,South,Partner,ACH
+TXN1000058,2025-07-09,CUST006004,P1002,Wireless Headphones,Electronics,1,159.39,0.0,Northeast,Online,Debit Card
+TXN1000059,2024-12-08,CUST003626,P1002,Wireless Headphones,Electronics,1,135.56,0.1,Northeast,Online,Credit Card
+TXN1000060,2022-06-22,CUST013531,P4002,Performance Jacket,Apparel,1,209.01,0.15,International,Online,Credit Card
+TXN1000061,2022-04-14,CUST001162,P3001,Coffee Maker,Home & Kitchen,1,122.08,0.1,International,Wholesale,Credit Card
+TXN1000062,2022-03-06,CUST014422,P3003,Cookware Set,Home & Kitchen,5,268.99,0.0,West,Online,Credit Card
+TXN1000063,2022-02-23,CUST014649,P5001,Project Management Suite,Software,4,39.31,0.05,West,Retail Store,Credit Card
+TXN1000064,2023-12-29,CUST008859,P4001,Running Shoes,Apparel,4,133.51,0.2,Midwest,Online,Credit Card
+TXN1000065,2022-10-15,CUST012339,P3003,Cookware Set,Home & Kitchen,1,236.42,0.0,West,Wholesale,Debit Card
+TXN1000066,2024-10-06,CUST003892,P3003,Cookware Set,Home & Kitchen,3,278.11,0.25,South,Online,Invoice
+TXN1000067,2023-12-14,CUST004352,P2001,Office Chair,Furniture,3,242.43,0.05,Midwest,Retail Store,PayPal
+TXN1000068,2022-06-12,CUST015952,P1001,Laptop Pro 14,Electronics,3,1286.02,0.15,West,Online,Invoice
+TXN1000069,2022-01-12,CUST002427,P3001,Coffee Maker,Home & Kitchen,1,104.04,0.1,Northeast,Inside Sales,Credit Card
+TXN1000070,2022-03-12,CUST008282,P1003,Smartphone Max,Electronics,7,828.33,0.0,Midwest,Online,Credit Card
+TXN1000071,2024-03-05,CUST000901,P2003,Bookshelf,Furniture,2,196.23,0.1,South,Retail Store,ACH
+TXN1000072,2024-06-01,CUST000180,P5002,Analytics Platform License,Software,1,225.91,0.05,Midwest,Retail Store,Credit Card
+TXN1000073,2023-06-26,CUST009149,P1004,4K Monitor,Electronics,3,346.3,0.1,International,Partner,Credit Card
+TXN1000074,2022-05-21,CUST004209,P1001,Laptop Pro 14,Electronics,1,1176.54,0.05,West,Partner,Debit Card
+TXN1000075,2025-10-20,CUST010538,P2001,Office Chair,Furniture,3,227.15,0.0,South,Online,Invoice
+TXN1000076,2023-09-11,CUST012573,P2001,Office Chair,Furniture,1,230.26,0.25,Midwest,Online,PayPal
+TXN1000077,2023-10-13,CUST008510,P4002,Performance Jacket,Apparel,1,165.69,0.0,Midwest,Wholesale,Credit Card
+TXN1000078,2023-08-06,CUST014772,P3003,Cookware Set,Home & Kitchen,2,269.72,0.05,Northeast,Partner,Credit Card
+TXN1000079,2022-04-20,CUST001749,P5001,Project Management Suite,Software,1,35.72,0.0,South,Wholesale,Credit Card
+TXN1000080,2024-11-19,CUST000033,P4002,Performance Jacket,Apparel,1,166.33,0.05,Northeast,Online,ACH
+TXN1000081,2024-09-23,CUST001347,P2003,Bookshelf,Furniture,2,179.84,0.1,South,Partner,Credit Card
+TXN1000082,2022-09-23,CUST011055,P5001,Project Management Suite,Software,2,36.39,0.1,South,Inside Sales,Debit Card
+TXN1000083,2023-02-05,CUST000094,P1003,Smartphone Max,Electronics,3,884.88,0.15,West,Online,PayPal
+TXN1000084,2024-03-29,CUST009551,P1001,Laptop Pro 14,Electronics,2,1413.95,0.0,South,Wholesale,Debit Card
+TXN1000085,2023-07-30,CUST012843,P1002,Wireless Headphones,Electronics,3,139.83,0.15,South,Wholesale,Debit Card
+TXN1000086,2025-12-29,CUST004973,P4003,Travel Backpack,Apparel,6,88.79,0.2,South,Online,Credit Card
+TXN1000087,2023-12-28,CUST001632,P3001,Coffee Maker,Home & Kitchen,1,124.83,0.0,Northeast,Online,Credit Card
+TXN1000088,2025-08-07,CUST000923,P1003,Smartphone Max,Electronics,3,778.96,0.0,West,Partner,Debit Card
+TXN1000089,2022-11-13,CUST008160,P3002,Air Fryer,Home & Kitchen,2,152.6,0.1,Midwest,Wholesale,Invoice
+TXN1000090,2024-04-14,CUST009319,P1003,Smartphone Max,Electronics,1,909.31,0.05,South,Partner,Credit Card
+TXN1000091,2023-05-10,CUST004332,P4003,Travel Backpack,Apparel,1,96.12,0.1,Northeast,Inside Sales,Credit Card
+TXN1000092,2025-10-19,CUST010887,P3001,Coffee Maker,Home & Kitchen,3,103.81,0.0,West,Online,Credit Card
+TXN1000093,2024-04-05,CUST001492,P2003,Bookshelf,Furniture,1,150.47,0.15,West,Wholesale,Credit Card
+TXN1000094,2024-09-08,CUST005878,P2001,Office Chair,Furniture,2,207.38,0.25,Midwest,Inside Sales,Credit Card
+TXN1000095,2022-05-16,CUST011706,P4001,Running Shoes,Apparel,1,127.68,0.0,International,Partner,Debit Card
+TXN1000096,2023-12-19,CUST014031,P2002,Standing Desk,Furniture,1,588.13,0.0,West,Retail Store,Credit Card
+TXN1000097,2024-05-21,CUST004969,P1002,Wireless Headphones,Electronics,1,134.77,0.0,West,Online,Debit Card
+TXN1000098,2023-03-18,CUST011844,P1002,Wireless Headphones,Electronics,5,142.51,0.2,West,Inside Sales,Credit Card
+TXN1000099,2024-12-16,CUST013718,P6001,Commercial Printer,Office Supplies,2,383.94,0.05,West,Inside Sales,Credit Card
+TXN1000100,2023-11-26,CUST014626,P5003,Security Monitoring Plan,Software,3,173.32,0.15,West,Inside Sales,Debit Card
+TXN1000101,2024-04-22,CUST012372,P4003,Travel Backpack,Apparel,1,106.0,0.25,International,Retail Store,Credit Card
+TXN1000102,2023-07-07,CUST002962,P1004,4K Monitor,Electronics,2,352.51,0.0,Midwest,Retail Store,Credit Card
+TXN1000103,2024-10-09,CUST005560,P6001,Commercial Printer,Office Supplies,1,438.84,0.25,South,Wholesale,Debit Card
+TXN1000104,2022-06-26,CUST012041,P5001,Project Management Suite,Software,3,35.47,0.1,International,Retail Store,Credit Card
+TXN1000105,2024-01-13,CUST001651,P4003,Travel Backpack,Apparel,5,99.85,0.0,International,Online,Debit Card
+TXN1000106,2025-08-27,CUST002421,P3001,Coffee Maker,Home & Kitchen,3,103.44,0.05,West,Retail Store,PayPal
+TXN1000107,2022-12-16,CUST012059,P1004,4K Monitor,Electronics,5,384.08,0.0,Midwest,Retail Store,Credit Card
+TXN1000108,2025-07-18,CUST009170,P1002,Wireless Headphones,Electronics,1,152.21,0.0,Midwest,Online,Debit Card
+TXN1000109,2025-08-11,CUST009789,P5003,Security Monitoring Plan,Software,3,167.05,0.0,South,Online,Credit Card
+TXN1000110,2022-12-11,CUST010930,P3001,Coffee Maker,Home & Kitchen,1,96.51,0.0,Northeast,Wholesale,Credit Card
+TXN1000111,2022-05-23,CUST013488,P1003,Smartphone Max,Electronics,1,925.73,0.0,Northeast,Retail Store,Credit Card
+TXN1000112,2025-01-28,CUST011425,P2001,Office Chair,Furniture,6,221.32,0.0,Northeast,Online,PayPal
+TXN1000113,2025-11-17,CUST012093,P3003,Cookware Set,Home & Kitchen,5,270.85,0.0,Northeast,Retail Store,Credit Card
+TXN1000114,2023-01-12,CUST014912,P1003,Smartphone Max,Electronics,4,998.36,0.0,Midwest,Online,Credit Card
+TXN1000115,2025-09-21,CUST009793,P5002,Analytics Platform License,Software,2,261.09,0.05,West,Retail Store,ACH
+TXN1000116,2022-11-17,CUST002652,P5001,Project Management Suite,Software,2,42.27,0.05,South,Retail Store,ACH
+TXN1000117,2023-07-05,CUST011647,P4003,Travel Backpack,Apparel,3,92.69,0.15,Midwest,Inside Sales,PayPal
+TXN1000118,2025-08-12,CUST015714,P3001,Coffee Maker,Home & Kitchen,4,121.33,0.15,South,Online,PayPal
+TXN1000119,2023-04-11,CUST005624,P4001,Running Shoes,Apparel,3,136.65,0.0,Northeast,Online,Credit Card
+TXN1000120,2025-01-11,CUST007295,P4001,Running Shoes,Apparel,1,129.26,0.0,South,Retail Store,Invoice
+TXN1000121,2022-08-30,CUST000227,P4002,Performance Jacket,Apparel,1,188.8,0.2,South,Online,PayPal
+TXN1000122,2023-08-02,CUST014405,P1002,Wireless Headphones,Electronics,3,137.62,0.15,South,Wholesale,ACH
+TXN1000123,2025-10-27,CUST014362,P2003,Bookshelf,Furniture,2,174.93,0.15,South,Partner,Credit Card
+TXN1000124,2022-12-07,CUST015684,P1001,Laptop Pro 14,Electronics,1,1127.28,0.2,Northeast,Retail Store,ACH
+TXN1000125,2024-11-09,CUST014200,P3002,Air Fryer,Home & Kitchen,2,148.85,0.05,Midwest,Wholesale,PayPal
+TXN1000126,2025-09-30,CUST001546,P2001,Office Chair,Furniture,3,252.44,0.0,West,Partner,ACH
+TXN1000127,2025-03-08,CUST001615,P1003,Smartphone Max,Electronics,2,894.14,0.0,West,Inside Sales,Credit Card
+TXN1000128,2025-11-05,CUST002742,P1002,Wireless Headphones,Electronics,1,142.65,0.0,South,Retail Store,Debit Card
+TXN1000129,2025-10-31,CUST014160,P4001,Running Shoes,Apparel,2,123.66,0.05,South,Inside Sales,Debit Card
+TXN1000130,2022-07-11,CUST006700,P1003,Smartphone Max,Electronics,1,845.7,0.05,South,Online,Credit Card
+TXN1000131,2024-06-23,CUST003795,P5003,Security Monitoring Plan,Software,3,158.22,0.05,Northeast,Online,ACH
+TXN1000132,2023-10-10,CUST006968,P4001,Running Shoes,Apparel,1,133.1,0.0,Midwest,Online,Credit Card
+TXN1000133,2024-10-17,CUST001768,P2002,Standing Desk,Furniture,1,559.15,0.1,Northeast,Wholesale,Debit Card
+TXN1000134,2024-12-24,CUST007618,P4001,Running Shoes,Apparel,3,134.93,0.05,South,Wholesale,Debit Card
+TXN1000135,2022-12-27,CUST008133,P1001,Laptop Pro 14,Electronics,3,1196.07,0.05,Midwest,Inside Sales,ACH
+TXN1000136,2025-04-04,CUST002722,P6001,Commercial Printer,Office Supplies,1,485.32,0.05,Midwest,Wholesale,Invoice
+TXN1000137,2023-09-16,CUST000832,P3002,Air Fryer,Home & Kitchen,1,143.35,0.0,International,Online,Debit Card
+TXN1000138,2024-09-12,CUST009964,P5001,Project Management Suite,Software,1,40.52,0.2,West,Partner,Credit Card
+TXN1000139,2023-10-11,CUST012893,P1002,Wireless Headphones,Electronics,2,152.9,0.1,South,Online,Credit Card
+TXN1000140,2023-06-16,CUST013250,P3002,Air Fryer,Home & Kitchen,2,136.03,0.15,West,Retail Store,ACH
+TXN1000141,2024-10-31,CUST008795,P3002,Air Fryer,Home & Kitchen,2,130.33,0.0,South,Inside Sales,PayPal
+TXN1000142,2024-03-20,CUST003019,P5003,Security Monitoring Plan,Software,1,163.7,0.0,Midwest,Wholesale,PayPal
+TXN1000143,2025-06-25,CUST013417,P3003,Cookware Set,Home & Kitchen,7,262.76,0.0,Northeast,Retail Store,Credit Card
+TXN1000144,2025-03-10,CUST014739,P3001,Coffee Maker,Home & Kitchen,3,132.01,0.0,South,Online,Credit Card
+TXN1000145,2025-07-17,CUST011297,P1004,4K Monitor,Electronics,2,353.42,0.2,Midwest,Online,Debit Card
+TXN1000146,2025-01-30,CUST008565,P2001,Office Chair,Furniture,4,237.92,0.0,West,Wholesale,Credit Card
+TXN1000147,2025-09-26,CUST009704,P3002,Air Fryer,Home & Kitchen,1,144.9,0.25,International,Online,ACH
+TXN1000148,2022-09-12,CUST003529,P3001,Coffee Maker,Home & Kitchen,1,122.78,0.05,International,Inside Sales,ACH
+TXN1000149,2024-08-19,CUST013599,P1001,Laptop Pro 14,Electronics,2,1229.31,0.0,West,Retail Store,Debit Card
+TXN1000150,2022-05-26,CUST001587,P5002,Analytics Platform License,Software,4,243.75,0.0,Northeast,Online,Credit Card
+TXN1000151,2023-12-31,CUST010410,P5003,Security Monitoring Plan,Software,3,177.61,0.05,West,Retail Store,Debit Card
+TXN1000152,2025-07-07,CUST014509,P1002,Wireless Headphones,Electronics,1,136.27,0.1,Midwest,Online,ACH
+TXN1000153,2024-12-06,CUST003909,P3003,Cookware Set,Home & Kitchen,1,241.2,0.0,South,Retail Store,Credit Card
+TXN1000154,2024-05-26,CUST002632,P1002,Wireless Headphones,Electronics,3,166.37,0.25,South,Online,Credit Card
+TXN1000155,2024-10-31,CUST015304,P4002,Performance Jacket,Apparel,5,191.42,0.05,West,Retail Store,PayPal
+TXN1000156,2022-10-05,CUST015965,P2001,Office Chair,Furniture,3,225.55,0.15,South,Retail Store,Credit Card
+TXN1000157,2025-10-15,CUST012648,P4002,Performance Jacket,Apparel,2,196.58,0.25,West,Wholesale,PayPal
+TXN1000158,2022-11-22,CUST001223,P4003,Travel Backpack,Apparel,1,99.17,0.0,International,Online,Credit Card
+TXN1000159,2022-09-26,CUST015102,P5001,Project Management Suite,Software,2,42.95,0.0,West,Inside Sales,Invoice
+TXN1000160,2022-08-19,CUST002303,P1002,Wireless Headphones,Electronics,1,148.25,0.1,South,Online,Invoice
+TXN1000161,2025-10-22,CUST010728,P5003,Security Monitoring Plan,Software,1,163.99,0.05,West,Wholesale,Debit Card
+TXN1000162,2023-11-20,CUST000234,P1004,4K Monitor,Electronics,2,342.28,0.1,Midwest,Online,Credit Card
+TXN1000163,2024-03-05,CUST006242,P1001,Laptop Pro 14,Electronics,3,1259.99,0.0,Northeast,Retail Store,Credit Card
+TXN1000164,2023-08-02,CUST009957,P3003,Cookware Set,Home & Kitchen,6,245.14,0.0,Northeast,Online,ACH
+TXN1000165,2022-02-22,CUST008867,P2002,Standing Desk,Furniture,1,609.73,0.0,Northeast,Retail Store,Credit Card
+TXN1000166,2022-05-01,CUST014623,P5002,Analytics Platform License,Software,2,260.14,0.0,Northeast,Retail Store,Credit Card
+TXN1000167,2022-01-30,CUST007804,P5001,Project Management Suite,Software,3,39.01,0.0,West,Partner,ACH
+TXN1000168,2024-03-15,CUST010695,P2001,Office Chair,Furniture,2,231.94,0.0,Northeast,Retail Store,Credit Card
+TXN1000169,2022-10-31,CUST002992,P6001,Commercial Printer,Office Supplies,5,456.08,0.1,West,Online,Credit Card
+TXN1000170,2023-09-06,CUST001738,P2001,Office Chair,Furniture,2,237.79,0.05,South,Partner,Credit Card
+TXN1000171,2023-11-19,CUST001614,P3002,Air Fryer,Home & Kitchen,4,150.27,0.15,International,Retail Store,Debit Card
+TXN1000172,2024-03-04,CUST012095,P1004,4K Monitor,Electronics,7,294.01,0.2,South,Retail Store,Credit Card
+TXN1000173,2025-08-23,CUST002968,P5003,Security Monitoring Plan,Software,1,142.71,0.25,Northeast,Online,PayPal
+TXN1000174,2022-03-23,CUST015118,P1003,Smartphone Max,Electronics,1,856.79,0.0,Northeast,Retail Store,Debit Card
+TXN1000175,2023-12-26,CUST008698,P1001,Laptop Pro 14,Electronics,1,1346.08,0.0,Northeast,Wholesale,Credit Card
+TXN1000176,2022-08-06,CUST012437,P3001,Coffee Maker,Home & Kitchen,1,125.26,0.1,Northeast,Online,ACH
+TXN1000177,2025-10-09,CUST009874,P6002,Desk Organizer Set,Office Supplies,2,37.69,0.25,West,Online,ACH
+TXN1000178,2025-09-27,CUST010681,P5002,Analytics Platform License,Software,2,229.68,0.0,Northeast,Partner,Invoice
+TXN1000179,2022-08-19,CUST015483,P4003,Travel Backpack,Apparel,3,103.44,0.0,South,Wholesale,Debit Card
+TXN1000180,2022-07-16,CUST004608,P5002,Analytics Platform License,Software,6,258.13,0.0,West,Online,Invoice
+TXN1000181,2022-07-05,CUST012689,P5002,Analytics Platform License,Software,4,259.68,0.25,Midwest,Retail Store,Credit Card
+TXN1000182,2022-06-18,CUST013086,P3002,Air Fryer,Home & Kitchen,4,150.04,0.0,West,Wholesale,Credit Card
+TXN1000183,2022-09-14,CUST012043,P2001,Office Chair,Furniture,3,237.82,0.0,Northeast,Retail Store,ACH
+TXN1000184,2022-09-11,CUST012090,P5001,Project Management Suite,Software,3,39.4,0.05,West,Retail Store,Credit Card
+TXN1000185,2022-09-22,CUST004437,P4002,Performance Jacket,Apparel,3,169.73,0.1,Midwest,Online,Credit Card
+TXN1000186,2022-09-01,CUST001983,P2002,Standing Desk,Furniture,1,605.33,0.05,Northeast,Inside Sales,Debit Card
+TXN1000187,2023-08-01,CUST000969,P1002,Wireless Headphones,Electronics,7,132.43,0.15,West,Wholesale,Invoice
+TXN1000188,2023-01-08,CUST012224,P4003,Travel Backpack,Apparel,3,116.6,0.2,Midwest,Partner,Invoice
+TXN1000189,2023-09-27,CUST013033,P1004,4K Monitor,Electronics,2,348.61,0.0,Northeast,Inside Sales,Credit Card
+TXN1000190,2025-08-24,CUST002299,P5003,Security Monitoring Plan,Software,1,143.25,0.1,West,Online,Credit Card
+TXN1000191,2023-06-24,CUST000262,P1004,4K Monitor,Electronics,6,337.76,0.05,International,Online,ACH
+TXN1000192,2023-03-11,CUST006193,P1002,Wireless Headphones,Electronics,1,141.19,0.0,Midwest,Online,PayPal
+TXN1000193,2025-09-23,CUST006516,P5002,Analytics Platform License,Software,4,281.98,0.0,West,Retail Store,Credit Card
+TXN1000194,2023-05-09,CUST001984,P1003,Smartphone Max,Electronics,2,813.82,0.0,West,Retail Store,ACH
+TXN1000195,2022-07-23,CUST006808,P1003,Smartphone Max,Electronics,3,916.0,0.1,International,Online,Credit Card
+TXN1000196,2024-07-18,CUST010580,P4001,Running Shoes,Apparel,3,101.74,0.0,South,Online,Credit Card
+TXN1000197,2023-03-03,CUST014134,P5002,Analytics Platform License,Software,1,222.26,0.0,South,Partner,Credit Card
+TXN1000198,2024-02-08,CUST005692,P1003,Smartphone Max,Electronics,6,916.44,0.0,South,Partner,Debit Card
+TXN1000199,2025-02-04,CUST005303,P2001,Office Chair,Furniture,1,242.17,0.25,West,Online,Credit Card
+TXN1000200,2024-04-29,CUST008244,P5001,Project Management Suite,Software,1,43.16,0.0,Midwest,Retail Store,Debit Card
+TXN1000201,2025-04-18,CUST011949,P6001,Commercial Printer,Office Supplies,4,407.69,0.25,South,Online,Debit Card
+TXN1000202,2023-06-13,CUST000657,P3002,Air Fryer,Home & Kitchen,2,147.72,0.0,International,Online,PayPal
+TXN1000203,2022-09-29,CUST015950,P1003,Smartphone Max,Electronics,2,938.52,0.05,West,Partner,Debit Card
+TXN1000204,2023-08-26,CUST006010,P1001,Laptop Pro 14,Electronics,1,1400.05,0.1,Northeast,Online,Debit Card
+TXN1000205,2023-09-20,CUST006482,P1004,4K Monitor,Electronics,1,341.12,0.0,South,Wholesale,Credit Card
+TXN1000206,2024-11-25,CUST011439,P1002,Wireless Headphones,Electronics,1,161.39,0.15,Northeast,Wholesale,Credit Card
+TXN1000207,2024-10-22,CUST013239,P4002,Performance Jacket,Apparel,1,202.18,0.05,Midwest,Online,Credit Card
+TXN1000208,2023-04-20,CUST004895,P1002,Wireless Headphones,Electronics,1,144.66,0.0,West,Online,Credit Card
+TXN1000209,2025-10-13,CUST011749,P3002,Air Fryer,Home & Kitchen,1,124.13,0.15,Midwest,Online,PayPal
+TXN1000210,2023-02-19,CUST007520,P4002,Performance Jacket,Apparel,1,200.09,0.1,South,Online,Credit Card
+TXN1000211,2025-12-28,CUST006668,P4001,Running Shoes,Apparel,1,145.87,0.15,West,Retail Store,Credit Card
+TXN1000212,2022-03-05,CUST007904,P1003,Smartphone Max,Electronics,1,864.16,0.15,West,Online,Credit Card
+TXN1000213,2024-10-05,CUST000272,P5001,Project Management Suite,Software,2,33.59,0.0,West,Online,Credit Card
+TXN1000214,2024-07-20,CUST014105,P4003,Travel Backpack,Apparel,1,100.72,0.2,West,Partner,Debit Card
+TXN1000215,2024-05-29,CUST009463,P4003,Travel Backpack,Apparel,2,97.06,0.15,Northeast,Wholesale,Credit Card
+TXN1000216,2025-02-26,CUST003349,P1002,Wireless Headphones,Electronics,1,164.42,0.05,Midwest,Retail Store,PayPal
+TXN1000217,2024-06-07,CUST001723,P1002,Wireless Headphones,Electronics,1,150.35,0.05,Midwest,Online,Credit Card
+TXN1000218,2024-07-05,CUST003210,P5003,Security Monitoring Plan,Software,3,181.01,0.05,International,Online,Credit Card
+TXN1000219,2025-07-30,CUST002215,P2003,Bookshelf,Furniture,1,186.28,0.1,West,Online,Credit Card
+TXN1000220,2022-10-22,CUST007462,P2001,Office Chair,Furniture,2,235.53,0.0,South,Partner,Credit Card
+TXN1000221,2024-03-01,CUST014858,P3002,Air Fryer,Home & Kitchen,3,142.86,0.0,West,Online,PayPal
+TXN1000222,2024-11-21,CUST008389,P4002,Performance Jacket,Apparel,2,188.44,0.15,South,Partner,Invoice
+TXN1000223,2023-04-17,CUST013571,P6001,Commercial Printer,Office Supplies,7,419.2,0.0,South,Retail Store,Credit Card
+TXN1000224,2022-11-29,CUST003350,P2001,Office Chair,Furniture,1,209.86,0.05,West,Online,Invoice
+TXN1000225,2022-08-02,CUST006189,P5003,Security Monitoring Plan,Software,1,159.39,0.0,Northeast,Inside Sales,PayPal
+TXN1000226,2023-01-25,CUST005923,P1001,Laptop Pro 14,Electronics,2,1236.94,0.0,Northeast,Wholesale,Credit Card
+TXN1000227,2024-09-25,CUST001195,P3003,Cookware Set,Home & Kitchen,2,257.51,0.0,South,Inside Sales,Credit Card
+TXN1000228,2024-07-12,CUST000208,P4001,Running Shoes,Apparel,1,133.51,0.1,South,Inside Sales,Credit Card
+TXN1000229,2022-10-03,CUST000425,P1002,Wireless Headphones,Electronics,3,161.91,0.0,West,Retail Store,PayPal
+TXN1000230,2023-12-22,CUST015744,P1002,Wireless Headphones,Electronics,4,165.24,0.1,Midwest,Partner,Invoice
+TXN1000231,2022-11-23,CUST002678,P3001,Coffee Maker,Home & Kitchen,7,101.37,0.0,Midwest,Online,Debit Card
+TXN1000232,2025-10-21,CUST006886,P6001,Commercial Printer,Office Supplies,2,414.72,0.0,West,Partner,Debit Card
+TXN1000233,2024-12-04,CUST006902,P4001,Running Shoes,Apparel,1,127.17,0.15,Northeast,Partner,Credit Card
+TXN1000234,2022-10-05,CUST004375,P5003,Security Monitoring Plan,Software,1,153.85,0.05,Midwest,Online,PayPal
+TXN1000235,2023-03-17,CUST008684,P5001,Project Management Suite,Software,2,38.06,0.0,Midwest,Inside Sales,Invoice
+TXN1000236,2025-06-25,CUST009563,P3001,Coffee Maker,Home & Kitchen,1,124.61,0.15,West,Retail Store,Credit Card
+TXN1000237,2024-04-15,CUST012503,P5001,Project Management Suite,Software,2,45.4,0.1,Northeast,Retail Store,PayPal
+TXN1000238,2023-06-30,CUST009793,P1001,Laptop Pro 14,Electronics,7,1497.44,0.0,South,Retail Store,Credit Card
+TXN1000239,2024-06-18,CUST004727,P1002,Wireless Headphones,Electronics,2,153.82,0.0,Northeast,Inside Sales,PayPal
+TXN1000240,2023-08-18,CUST011759,P5002,Analytics Platform License,Software,1,213.28,0.0,West,Partner,Invoice
+TXN1000241,2025-09-19,CUST012118,P5001,Project Management Suite,Software,2,36.62,0.05,South,Partner,Credit Card
+TXN1000242,2025-07-25,CUST001237,P1004,4K Monitor,Electronics,2,398.98,0.1,International,Wholesale,PayPal
+TXN1000243,2022-09-17,CUST012475,P3002,Air Fryer,Home & Kitchen,1,112.5,0.0,West,Retail Store,Debit Card
+TXN1000244,2024-10-10,CUST010621,P4001,Running Shoes,Apparel,2,131.19,0.0,West,Retail Store,Debit Card
+TXN1000245,2025-06-03,CUST013405,P5002,Analytics Platform License,Software,7,238.46,0.0,West,Wholesale,Invoice
+TXN1000246,2022-11-20,CUST015789,P4001,Running Shoes,Apparel,1,131.25,0.0,Northeast,Online,PayPal
+TXN1000247,2025-07-22,CUST005032,P2003,Bookshelf,Furniture,2,203.42,0.15,Northeast,Online,ACH
+TXN1000248,2023-09-30,CUST009218,P2002,Standing Desk,Furniture,2,667.9,0.0,Midwest,Online,PayPal
+TXN1000249,2023-04-17,CUST005514,P3001,Coffee Maker,Home & Kitchen,4,137.84,0.0,Northeast,Online,Debit Card
+TXN1000250,2025-12-15,CUST007745,P4002,Performance Jacket,Apparel,2,180.26,0.0,Midwest,Wholesale,Credit Card
+TXN1000251,2024-10-24,CUST010766,P5002,Analytics Platform License,Software,5,207.37,0.25,Northeast,Online,Credit Card
+TXN1000252,2023-03-19,CUST006802,P3001,Coffee Maker,Home & Kitchen,4,116.69,0.25,International,Online,Credit Card
+TXN1000253,2024-02-28,CUST007304,P1004,4K Monitor,Electronics,3,357.95,0.0,South,Wholesale,PayPal
+TXN1000254,2024-08-24,CUST000581,P1004,4K Monitor,Electronics,1,372.03,0.05,Midwest,Online,Debit Card
+TXN1000255,2024-11-21,CUST014891,P4003,Travel Backpack,Apparel,2,105.96,0.0,Midwest,Online,Credit Card
+TXN1000256,2022-11-18,CUST009171,P5001,Project Management Suite,Software,4,39.79,0.15,International,Retail Store,Credit Card
+TXN1000257,2024-07-15,CUST005638,P1002,Wireless Headphones,Electronics,6,154.88,0.0,West,Wholesale,Credit Card
+TXN1000258,2025-06-17,CUST015550,P1001,Laptop Pro 14,Electronics,5,1260.26,0.1,West,Retail Store,Debit Card
+TXN1000259,2025-04-10,CUST006959,P4001,Running Shoes,Apparel,5,138.92,0.1,South,Online,ACH
+TXN1000260,2023-03-25,CUST010812,P1003,Smartphone Max,Electronics,3,879.6,0.15,South,Online,ACH
+TXN1000261,2025-11-30,CUST000561,P5002,Analytics Platform License,Software,1,275.37,0.1,South,Wholesale,Credit Card
+TXN1000262,2022-01-24,CUST006143,P2001,Office Chair,Furniture,2,227.41,0.0,South,Online,Credit Card
+TXN1000263,2025-02-26,CUST005761,P1003,Smartphone Max,Electronics,3,876.46,0.1,West,Online,Credit Card
+TXN1000264,2023-05-02,CUST014200,P5003,Security Monitoring Plan,Software,4,168.33,0.05,South,Inside Sales,Credit Card
+TXN1000265,2025-10-28,CUST004924,P1003,Smartphone Max,Electronics,1,886.19,0.15,Midwest,Online,Invoice
+TXN1000266,2025-07-07,CUST012986,P2001,Office Chair,Furniture,1,237.77,0.0,Northeast,Inside Sales,PayPal
+TXN1000267,2025-08-05,CUST010747,P1003,Smartphone Max,Electronics,1,841.24,0.2,International,Online,PayPal
+TXN1000268,2023-01-04,CUST006119,P1002,Wireless Headphones,Electronics,4,136.86,0.05,International,Online,Credit Card
+TXN1000269,2025-03-29,CUST011588,P1001,Laptop Pro 14,Electronics,3,1402.27,0.05,Midwest,Online,Invoice
+TXN1000270,2023-05-27,CUST011452,P1001,Laptop Pro 14,Electronics,4,1234.26,0.0,International,Inside Sales,Credit Card
+TXN1000271,2023-11-05,CUST013263,P1003,Smartphone Max,Electronics,1,902.38,0.25,West,Partner,Debit Card
+TXN1000272,2025-09-09,CUST013194,P1001,Laptop Pro 14,Electronics,5,1361.85,0.0,Northeast,Online,Credit Card
+TXN1000273,2024-11-30,CUST008863,P4001,Running Shoes,Apparel,1,139.39,0.15,International,Partner,Credit Card
+TXN1000274,2024-08-19,CUST002300,P4002,Performance Jacket,Apparel,1,186.32,0.3,South,Online,Credit Card
+TXN1000275,2022-08-02,CUST001589,P2003,Bookshelf,Furniture,3,154.66,0.3,Northeast,Online,Credit Card
+TXN1000276,2024-03-14,CUST010410,P2001,Office Chair,Furniture,3,233.85,0.0,International,Retail Store,Credit Card
+TXN1000277,2022-07-25,CUST000009,P3002,Air Fryer,Home & Kitchen,1,144.75,0.0,Northeast,Partner,Credit Card
+TXN1000278,2022-05-14,CUST015806,P5002,Analytics Platform License,Software,3,246.61,0.0,Midwest,Partner,Credit Card
+TXN1000279,2025-11-04,CUST002168,P5002,Analytics Platform License,Software,4,239.33,0.0,International,Retail Store,Credit Card
+TXN1000280,2024-06-10,CUST002376,P1001,Laptop Pro 14,Electronics,2,1376.05,0.0,International,Inside Sales,ACH
+TXN1000281,2022-01-12,CUST000330,P1003,Smartphone Max,Electronics,1,952.07,0.0,West,Retail Store,PayPal
+TXN1000282,2023-11-29,CUST014492,P1004,4K Monitor,Electronics,5,349.09,0.0,West,Retail Store,ACH
+TXN1000283,2023-03-12,CUST006623,P1004,4K Monitor,Electronics,1,372.92,0.0,South,Wholesale,Debit Card
+TXN1000284,2022-09-08,CUST001996,P3003,Cookware Set,Home & Kitchen,6,269.01,0.0,International,Wholesale,Credit Card
+TXN1000285,2025-05-05,CUST002438,P2003,Bookshelf,Furniture,5,165.82,0.0,Northeast,Inside Sales,PayPal
+TXN1000286,2022-09-08,CUST014101,P1001,Laptop Pro 14,Electronics,1,1270.56,0.25,South,Inside Sales,Credit Card
+TXN1000287,2022-09-26,CUST015117,P2002,Standing Desk,Furniture,2,546.01,0.0,Northeast,Partner,Credit Card
+TXN1000288,2022-12-13,CUST003053,P3002,Air Fryer,Home & Kitchen,2,120.0,0.1,West,Online,Credit Card
+TXN1000289,2024-11-21,CUST015265,P1002,Wireless Headphones,Electronics,1,143.39,0.0,Northeast,Online,Credit Card
+TXN1000290,2022-10-28,CUST000135,P5002,Analytics Platform License,Software,2,253.56,0.0,Northeast,Retail Store,Credit Card
+TXN1000291,2023-05-09,CUST002058,P1001,Laptop Pro 14,Electronics,3,1290.34,0.0,South,Partner,Debit Card
+TXN1000292,2025-09-06,CUST001180,P5003,Security Monitoring Plan,Software,2,156.51,0.3,South,Wholesale,ACH
+TXN1000293,2024-04-29,CUST014427,P1002,Wireless Headphones,Electronics,4,160.49,0.0,Northeast,Online,Debit Card
+TXN1000294,2022-10-05,CUST009252,P5002,Analytics Platform License,Software,2,214.21,0.1,Northeast,Retail Store,Credit Card
+TXN1000295,2025-07-05,CUST008189,P5003,Security Monitoring Plan,Software,1,166.67,0.0,Northeast,Online,Credit Card
+TXN1000296,2024-01-24,CUST008475,P6001,Commercial Printer,Office Supplies,6,419.65,0.05,Northeast,Partner,Credit Card
+TXN1000297,2025-05-29,CUST010623,P5001,Project Management Suite,Software,4,41.9,0.1,Midwest,Inside Sales,Credit Card
+TXN1000298,2022-05-20,CUST014990,P5001,Project Management Suite,Software,4,35.19,0.1,South,Retail Store,Invoice
+TXN1000299,2022-09-19,CUST015842,P4001,Running Shoes,Apparel,1,128.47,0.05,West,Online,Credit Card
+TXN1000300,2022-06-09,CUST015890,P5001,Project Management Suite,Software,2,36.97,0.0,South,Inside Sales,Debit Card
+TXN1000301,2023-12-12,CUST001852,P1002,Wireless Headphones,Electronics,1,152.39,0.25,South,Partner,Debit Card
+TXN1000302,2023-08-15,CUST009616,P3003,Cookware Set,Home & Kitchen,1,239.2,0.0,South,Online,Credit Card
+TXN1000303,2023-09-25,CUST003023,P3002,Air Fryer,Home & Kitchen,4,135.56,0.15,Northeast,Partner,ACH
+TXN1000304,2023-07-15,CUST005028,P5002,Analytics Platform License,Software,1,259.27,0.0,Northeast,Inside Sales,Debit Card
+TXN1000305,2023-10-06,CUST002687,P3001,Coffee Maker,Home & Kitchen,2,103.04,0.0,International,Wholesale,Credit Card
+TXN1000306,2023-08-06,CUST005937,P2003,Bookshelf,Furniture,3,180.65,0.05,South,Online,Credit Card
+TXN1000307,2022-09-16,CUST015018,P4001,Running Shoes,Apparel,1,125.25,0.05,West,Wholesale,Debit Card
+TXN1000308,2024-05-05,CUST009581,P1004,4K Monitor,Electronics,1,339.55,0.15,Midwest,Online,Credit Card
+TXN1000309,2025-07-19,CUST005443,P1002,Wireless Headphones,Electronics,3,150.01,0.1,South,Online,Debit Card
+TXN1000310,2025-12-25,CUST010649,P3002,Air Fryer,Home & Kitchen,2,136.69,0.0,International,Inside Sales,PayPal
+TXN1000311,2022-07-16,CUST015474,P2003,Bookshelf,Furniture,3,185.7,0.0,Northeast,Inside Sales,PayPal
+TXN1000312,2023-09-19,CUST005766,P1004,4K Monitor,Electronics,1,366.24,0.05,International,Retail Store,Credit Card
+TXN1000313,2022-12-22,CUST008011,P2002,Standing Desk,Furniture,2,585.8,0.05,South,Retail Store,ACH
+TXN1000314,2024-05-01,CUST014944,P2002,Standing Desk,Furniture,4,594.5,0.05,West,Wholesale,Credit Card
+TXN1000315,2023-07-06,CUST003711,P2001,Office Chair,Furniture,3,218.03,0.0,West,Wholesale,Credit Card
+TXN1000316,2025-07-31,CUST013996,P2002,Standing Desk,Furniture,5,588.29,0.1,South,Wholesale,Debit Card
+TXN1000317,2025-10-20,CUST000651,P4002,Performance Jacket,Apparel,1,156.83,0.0,Northeast,Inside Sales,PayPal
+TXN1000318,2023-05-15,CUST001655,P2001,Office Chair,Furniture,2,231.93,0.0,West,Wholesale,ACH
+TXN1000319,2023-07-01,CUST006945,P5003,Security Monitoring Plan,Software,2,166.64,0.0,West,Retail Store,ACH
+TXN1000320,2024-03-08,CUST005378,P5003,Security Monitoring Plan,Software,1,169.1,0.0,South,Retail Store,PayPal
+TXN1000321,2024-08-12,CUST013107,P3002,Air Fryer,Home & Kitchen,3,136.16,0.15,West,Partner,Credit Card
+TXN1000322,2025-01-05,CUST012326,P2001,Office Chair,Furniture,4,236.32,0.2,Midwest,Online,Invoice
+TXN1000323,2022-06-21,CUST011612,P3003,Cookware Set,Home & Kitchen,1,291.92,0.05,West,Partner,Debit Card
+TXN1000324,2022-04-06,CUST002777,P5002,Analytics Platform License,Software,2,251.65,0.0,South,Online,Credit Card
+TXN1000325,2024-10-11,CUST014088,P4002,Performance Jacket,Apparel,5,181.53,0.2,Northeast,Wholesale,Credit Card
+TXN1000326,2023-12-09,CUST012648,P5001,Project Management Suite,Software,1,40.18,0.0,Northeast,Retail Store,ACH
+TXN1000327,2024-10-04,CUST006188,P3002,Air Fryer,Home & Kitchen,4,148.34,0.2,Midwest,Online,Credit Card
+TXN1000328,2023-04-07,CUST012820,P4001,Running Shoes,Apparel,1,141.49,0.1,International,Inside Sales,Invoice
+TXN1000329,2022-10-04,CUST007008,P2001,Office Chair,Furniture,1,229.37,0.2,West,Online,ACH
+TXN1000330,2022-07-07,CUST015988,P4003,Travel Backpack,Apparel,4,104.01,0.0,South,Online,Invoice
+TXN1000331,2025-03-11,CUST013413,P1003,Smartphone Max,Electronics,1,1020.34,0.15,West,Retail Store,Credit Card
+TXN1000332,2023-09-07,CUST001501,P4002,Performance Jacket,Apparel,3,194.83,0.0,South,Retail Store,Debit Card
+TXN1000333,2022-05-27,CUST011456,P5002,Analytics Platform License,Software,4,262.67,0.0,Midwest,Wholesale,Credit Card
+TXN1000334,2022-12-28,CUST000844,P1002,Wireless Headphones,Electronics,2,177.94,0.15,South,Online,Credit Card
+TXN1000335,2025-07-08,CUST005318,P4001,Running Shoes,Apparel,2,133.06,0.15,Midwest,Retail Store,ACH
+TXN1000336,2023-12-12,CUST012954,P1002,Wireless Headphones,Electronics,1,149.79,0.15,Midwest,Online,ACH
+TXN1000337,2025-06-26,CUST011216,P4003,Travel Backpack,Apparel,3,93.8,0.15,International,Online,Debit Card
+TXN1000338,2025-11-02,CUST004841,P1002,Wireless Headphones,Electronics,3,151.75,0.2,South,Wholesale,Credit Card
+TXN1000339,2022-05-02,CUST010006,P5003,Security Monitoring Plan,Software,1,163.55,0.1,South,Online,Credit Card
+TXN1000340,2025-10-31,CUST000817,P1002,Wireless Headphones,Electronics,1,174.28,0.1,Northeast,Retail Store,Credit Card
+TXN1000341,2023-07-22,CUST008958,P6001,Commercial Printer,Office Supplies,3,508.26,0.0,West,Online,Credit Card
+TXN1000342,2024-11-05,CUST000595,P5001,Project Management Suite,Software,4,47.93,0.05,International,Retail Store,Credit Card
+TXN1000343,2023-09-07,CUST008133,P4001,Running Shoes,Apparel,4,118.75,0.15,International,Partner,Debit Card
+TXN1000344,2024-07-12,CUST013268,P5001,Project Management Suite,Software,1,34.43,0.25,South,Retail Store,PayPal
+TXN1000345,2024-09-30,CUST006553,P5001,Project Management Suite,Software,1,39.02,0.25,Midwest,Partner,Credit Card
+TXN1000346,2022-08-08,CUST003908,P5003,Security Monitoring Plan,Software,1,148.81,0.0,South,Partner,Debit Card
+TXN1000347,2023-10-15,CUST009542,P1004,4K Monitor,Electronics,3,347.71,0.1,International,Online,Credit Card
+TXN1000348,2022-11-15,CUST001774,P4001,Running Shoes,Apparel,4,129.75,0.1,Northeast,Partner,Credit Card
+TXN1000349,2022-07-19,CUST004531,P1002,Wireless Headphones,Electronics,1,162.59,0.0,West,Online,ACH
+TXN1000350,2024-06-09,CUST006998,P4001,Running Shoes,Apparel,6,141.24,0.15,Midwest,Wholesale,Credit Card
+TXN1000351,2024-10-14,CUST015876,P1003,Smartphone Max,Electronics,3,814.28,0.15,Midwest,Online,Credit Card
+TXN1000352,2023-01-15,CUST015766,P3003,Cookware Set,Home & Kitchen,1,256.22,0.0,Midwest,Retail Store,ACH
+TXN1000353,2022-01-14,CUST011101,P3003,Cookware Set,Home & Kitchen,1,242.03,0.0,South,Online,Credit Card
+TXN1000354,2025-12-01,CUST015429,P3001,Coffee Maker,Home & Kitchen,1,117.99,0.05,Midwest,Wholesale,Credit Card
+TXN1000355,2023-12-05,CUST014051,P3002,Air Fryer,Home & Kitchen,3,140.32,0.0,West,Online,Credit Card
+TXN1000356,2024-09-05,CUST001712,P5001,Project Management Suite,Software,3,40.21,0.25,International,Retail Store,ACH
+TXN1000357,2022-05-15,CUST006164,P5001,Project Management Suite,Software,1,39.93,0.05,South,Online,Credit Card
+TXN1000358,2024-07-20,CUST010472,P3002,Air Fryer,Home & Kitchen,2,144.01,0.3,South,Retail Store,Credit Card
+TXN1000359,2025-01-24,CUST003764,P4001,Running Shoes,Apparel,5,125.86,0.0,Northeast,Partner,Credit Card
+TXN1000360,2022-03-31,CUST009423,P5003,Security Monitoring Plan,Software,4,147.48,0.1,Midwest,Online,Credit Card
+TXN1000361,2024-02-15,CUST005117,P1002,Wireless Headphones,Electronics,5,133.85,0.1,West,Retail Store,Debit Card
+TXN1000362,2022-08-22,CUST005729,P1002,Wireless Headphones,Electronics,1,162.01,0.15,Midwest,Wholesale,Invoice
+TXN1000363,2022-08-29,CUST014901,P1002,Wireless Headphones,Electronics,1,158.14,0.15,Northeast,Retail Store,ACH
+TXN1000364,2024-07-12,CUST004759,P4002,Performance Jacket,Apparel,4,199.74,0.0,South,Online,Debit Card
+TXN1000365,2024-07-19,CUST008135,P2003,Bookshelf,Furniture,3,188.01,0.05,South,Partner,ACH
+TXN1000366,2024-04-10,CUST008371,P5001,Project Management Suite,Software,2,38.38,0.15,Northeast,Online,PayPal
+TXN1000367,2024-01-20,CUST006597,P4002,Performance Jacket,Apparel,1,181.95,0.0,Midwest,Online,Debit Card
+TXN1000368,2023-11-30,CUST012142,P2002,Standing Desk,Furniture,4,595.67,0.15,Midwest,Retail Store,Credit Card
+TXN1000369,2023-12-12,CUST004265,P5003,Security Monitoring Plan,Software,1,170.14,0.0,South,Partner,Credit Card
+TXN1000370,2023-05-29,CUST009676,P5001,Project Management Suite,Software,1,39.63,0.05,South,Partner,ACH
+TXN1000371,2023-01-15,CUST002857,P1004,4K Monitor,Electronics,1,359.68,0.0,Midwest,Retail Store,ACH
+TXN1000372,2023-01-30,CUST005538,P2002,Standing Desk,Furniture,2,601.19,0.05,West,Retail Store,PayPal
+TXN1000373,2025-09-14,CUST014393,P2001,Office Chair,Furniture,2,222.61,0.0,Northeast,Partner,Credit Card
+TXN1000374,2023-02-01,CUST013173,P1003,Smartphone Max,Electronics,6,839.91,0.05,West,Inside Sales,Credit Card
+TXN1000375,2023-07-27,CUST007544,P1003,Smartphone Max,Electronics,3,724.22,0.05,Northeast,Partner,Credit Card
+TXN1000376,2024-01-09,CUST007979,P5003,Security Monitoring Plan,Software,3,171.04,0.1,South,Online,Credit Card
+TXN1000377,2024-12-24,CUST009196,P3001,Coffee Maker,Home & Kitchen,6,115.57,0.05,West,Wholesale,Debit Card
+TXN1000378,2025-02-22,CUST010630,P2003,Bookshelf,Furniture,1,169.81,0.1,International,Online,Credit Card
+TXN1000379,2024-12-02,CUST003334,P4003,Travel Backpack,Apparel,5,94.43,0.0,West,Online,Credit Card
+TXN1000380,2023-04-09,CUST014306,P3003,Cookware Set,Home & Kitchen,1,251.41,0.0,Northeast,Online,PayPal
+TXN1000381,2022-09-21,CUST010778,P5003,Security Monitoring Plan,Software,1,143.16,0.0,South,Inside Sales,Credit Card
+TXN1000382,2025-05-02,CUST009446,P5001,Project Management Suite,Software,1,33.62,0.0,Northeast,Online,Credit Card
+TXN1000383,2025-07-26,CUST003791,P3002,Air Fryer,Home & Kitchen,1,138.06,0.0,Midwest,Online,ACH
+TXN1000384,2025-09-21,CUST012873,P2002,Standing Desk,Furniture,1,593.82,0.0,South,Wholesale,PayPal
+TXN1000385,2025-07-03,CUST004655,P6002,Desk Organizer Set,Office Supplies,1,37.72,0.0,West,Online,Debit Card
+TXN1000386,2023-07-08,CUST006803,P4003,Travel Backpack,Apparel,5,96.89,0.05,Northeast,Partner,Credit Card
+TXN1000387,2022-09-08,CUST008829,P5003,Security Monitoring Plan,Software,2,186.46,0.2,West,Online,ACH
+TXN1000388,2024-10-01,CUST000725,P1002,Wireless Headphones,Electronics,2,137.34,0.0,South,Online,Invoice
+TXN1000389,2024-09-02,CUST001743,P5002,Analytics Platform License,Software,3,237.63,0.15,West,Online,Credit Card
+TXN1000390,2022-12-29,CUST001876,P4001,Running Shoes,Apparel,2,141.37,0.2,South,Retail Store,Credit Card
+TXN1000391,2024-07-20,CUST004754,P1002,Wireless Headphones,Electronics,5,147.33,0.0,South,Online,Credit Card
+TXN1000392,2025-12-30,CUST005852,P4001,Running Shoes,Apparel,2,142.29,0.2,South,Wholesale,PayPal
+TXN1000393,2022-09-29,CUST000405,P4002,Performance Jacket,Apparel,5,208.35,0.0,West,Online,PayPal
+TXN1000394,2023-08-02,CUST003833,P1001,Laptop Pro 14,Electronics,1,1322.14,0.25,Midwest,Retail Store,Credit Card
+TXN1000395,2023-08-21,CUST008531,P3001,Coffee Maker,Home & Kitchen,2,112.98,0.0,International,Inside Sales,Credit Card
+TXN1000396,2022-11-23,CUST008380,P5002,Analytics Platform License,Software,3,264.9,0.05,Northeast,Online,Credit Card
+TXN1000397,2025-03-14,CUST009837,P2001,Office Chair,Furniture,1,204.72,0.0,International,Inside Sales,PayPal
+TXN1000398,2024-11-15,CUST012109,P3001,Coffee Maker,Home & Kitchen,3,116.77,0.1,Northeast,Inside Sales,Credit Card
+TXN1000399,2022-11-27,CUST012976,P3001,Coffee Maker,Home & Kitchen,1,120.55,0.05,Midwest,Wholesale,Credit Card
+TXN1000400,2025-07-02,CUST002569,P2001,Office Chair,Furniture,1,240.13,0.15,Northeast,Wholesale,ACH
+TXN1000401,2023-10-08,CUST006088,P5003,Security Monitoring Plan,Software,3,156.21,0.05,South,Online,Debit Card
+TXN1000402,2024-04-05,CUST011068,P5001,Project Management Suite,Software,2,39.24,0.1,West,Retail Store,Credit Card
+TXN1000403,2024-10-20,CUST001023,P1002,Wireless Headphones,Electronics,5,152.66,0.25,South,Online,ACH
+TXN1000404,2025-07-26,CUST006186,P6002,Desk Organizer Set,Office Supplies,1,34.25,0.15,West,Online,Credit Card
+TXN1000405,2022-12-07,CUST012714,P5002,Analytics Platform License,Software,3,239.98,0.1,West,Online,Credit Card
+TXN1000406,2024-06-09,CUST010698,P2001,Office Chair,Furniture,4,231.86,0.2,Midwest,Online,Credit Card
+TXN1000407,2024-10-02,CUST001112,P5002,Analytics Platform License,Software,2,274.76,0.15,International,Online,Credit Card
+TXN1000408,2025-08-13,CUST011234,P1002,Wireless Headphones,Electronics,6,159.07,0.0,West,Partner,PayPal
+TXN1000409,2025-02-12,CUST002873,P6002,Desk Organizer Set,Office Supplies,3,30.25,0.1,International,Retail Store,Credit Card
+TXN1000410,2025-09-23,CUST012954,P4002,Performance Jacket,Apparel,3,180.05,0.2,Midwest,Online,Credit Card
+TXN1000411,2022-05-15,CUST006283,P4002,Performance Jacket,Apparel,2,175.28,0.0,International,Online,Debit Card
+TXN1000412,2023-10-08,CUST005475,P1002,Wireless Headphones,Electronics,1,147.36,0.2,Northeast,Online,Credit Card
+TXN1000413,2023-04-15,CUST006246,P5003,Security Monitoring Plan,Software,1,165.56,0.1,International,Retail Store,ACH
+TXN1000414,2023-12-29,CUST012717,P1001,Laptop Pro 14,Electronics,3,1539.86,0.25,South,Partner,Debit Card
+TXN1000415,2025-04-22,CUST009117,P1004,4K Monitor,Electronics,1,386.09,0.2,Northeast,Online,Credit Card
+TXN1000416,2023-12-24,CUST013630,P1003,Smartphone Max,Electronics,5,943.48,0.0,West,Retail Store,Credit Card
+TXN1000417,2022-03-09,CUST003940,P5001,Project Management Suite,Software,1,34.64,0.0,West,Retail Store,Credit Card
+TXN1000418,2024-10-01,CUST013488,P1003,Smartphone Max,Electronics,2,847.46,0.15,Midwest,Online,Credit Card
+TXN1000419,2022-01-20,CUST013972,P5003,Security Monitoring Plan,Software,2,162.79,0.0,South,Retail Store,Credit Card
+TXN1000420,2022-06-18,CUST012878,P4002,Performance Jacket,Apparel,2,185.64,0.2,West,Retail Store,Credit Card
+TXN1000421,2024-12-08,CUST006944,P1001,Laptop Pro 14,Electronics,1,1315.6,0.05,Northeast,Online,Invoice
+TXN1000422,2025-05-24,CUST009843,P1001,Laptop Pro 14,Electronics,1,1394.64,0.15,West,Retail Store,Debit Card
+TXN1000423,2023-05-04,CUST007243,P1001,Laptop Pro 14,Electronics,3,1242.41,0.0,West,Retail Store,ACH
+TXN1000424,2024-05-05,CUST010118,P4001,Running Shoes,Apparel,2,128.61,0.05,Midwest,Partner,Debit Card
+TXN1000425,2024-03-30,CUST003851,P5001,Project Management Suite,Software,1,37.29,0.05,Midwest,Online,PayPal
+TXN1000426,2022-04-13,CUST015295,P1004,4K Monitor,Electronics,4,353.39,0.0,South,Wholesale,Credit Card
+TXN1000427,2024-03-26,CUST003791,P5002,Analytics Platform License,Software,3,259.82,0.15,Northeast,Online,Credit Card
+TXN1000428,2022-01-21,CUST008145,P1001,Laptop Pro 14,Electronics,1,1178.85,0.1,Midwest,Retail Store,Debit Card
+TXN1000429,2025-05-06,CUST002526,P5001,Project Management Suite,Software,2,32.56,0.15,South,Wholesale,Credit Card
+TXN1000430,2024-12-29,CUST012421,P5003,Security Monitoring Plan,Software,1,175.41,0.15,South,Partner,ACH
+TXN1000431,2023-03-07,CUST010148,P5001,Project Management Suite,Software,3,40.82,0.15,Midwest,Online,Credit Card
+TXN1000432,2023-01-24,CUST004994,P4003,Travel Backpack,Apparel,1,97.53,0.05,Midwest,Retail Store,Invoice
+TXN1000433,2022-10-27,CUST014069,P5002,Analytics Platform License,Software,1,239.87,0.15,South,Online,ACH
+TXN1000434,2025-11-10,CUST002430,P1001,Laptop Pro 14,Electronics,1,1464.61,0.2,Midwest,Online,ACH
+TXN1000435,2025-06-15,CUST005809,P1003,Smartphone Max,Electronics,1,994.6,0.15,Northeast,Retail Store,Credit Card
+TXN1000436,2025-06-03,CUST007064,P1002,Wireless Headphones,Electronics,6,143.96,0.15,West,Retail Store,Credit Card
+TXN1000437,2023-11-26,CUST010114,P3002,Air Fryer,Home & Kitchen,2,127.6,0.0,Northeast,Online,Debit Card
+TXN1000438,2025-04-23,CUST011858,P4003,Travel Backpack,Apparel,1,105.88,0.0,West,Inside Sales,Credit Card
+TXN1000439,2024-06-08,CUST015952,P4001,Running Shoes,Apparel,4,112.61,0.25,South,Inside Sales,Credit Card
+TXN1000440,2023-04-03,CUST011158,P5002,Analytics Platform License,Software,7,231.85,0.0,West,Online,PayPal
+TXN1000441,2023-10-14,CUST005938,P1003,Smartphone Max,Electronics,1,854.94,0.05,Midwest,Retail Store,Credit Card
+TXN1000442,2023-09-16,CUST007137,P4003,Travel Backpack,Apparel,1,96.84,0.0,Midwest,Online,Debit Card
+TXN1000443,2023-06-24,CUST003961,P1003,Smartphone Max,Electronics,4,917.38,0.05,West,Online,Debit Card
+TXN1000444,2022-12-24,CUST010225,P1004,4K Monitor,Electronics,1,307.47,0.05,Northeast,Wholesale,Debit Card
+TXN1000445,2023-09-01,CUST006854,P4003,Travel Backpack,Apparel,4,91.37,0.15,International,Online,PayPal
+TXN1000446,2024-06-20,CUST013949,P6001,Commercial Printer,Office Supplies,1,429.42,0.0,West,Online,PayPal
+TXN1000447,2022-11-03,CUST013227,P4001,Running Shoes,Apparel,6,147.63,0.0,International,Online,Invoice
+TXN1000448,2022-08-22,CUST006781,P1001,Laptop Pro 14,Electronics,1,1326.22,0.25,International,Online,Invoice
+TXN1000449,2024-10-27,CUST015585,P4001,Running Shoes,Apparel,4,126.74,0.1,Northeast,Partner,PayPal
+TXN1000450,2024-02-21,CUST001624,P1001,Laptop Pro 14,Electronics,2,1342.8,0.05,International,Retail Store,PayPal
+TXN1000451,2023-06-24,CUST004090,P5002,Analytics Platform License,Software,1,215.95,0.0,Midwest,Retail Store,ACH
+TXN1000452,2025-09-14,CUST004353,P4003,Travel Backpack,Apparel,2,98.25,0.1,Midwest,Inside Sales,Credit Card
+TXN1000453,2023-11-20,CUST011039,P1003,Smartphone Max,Electronics,4,949.16,0.1,South,Online,Debit Card
+TXN1000454,2023-05-25,CUST010646,P1002,Wireless Headphones,Electronics,3,135.66,0.05,Northeast,Retail Store,Credit Card
+TXN1000455,2022-11-26,CUST004789,P1003,Smartphone Max,Electronics,1,973.28,0.0,Northeast,Online,PayPal
+TXN1000456,2023-05-12,CUST007693,P6001,Commercial Printer,Office Supplies,2,415.78,0.0,Northeast,Inside Sales,Invoice
+TXN1000457,2023-02-16,CUST005211,P3001,Coffee Maker,Home & Kitchen,1,121.43,0.1,South,Online,PayPal
+TXN1000458,2025-07-15,CUST011425,P5001,Project Management Suite,Software,7,40.24,0.05,West,Online,PayPal
+TXN1000459,2025-08-22,CUST015351,P4001,Running Shoes,Apparel,3,126.59,0.05,West,Partner,PayPal
+TXN1000460,2023-09-21,CUST013801,P3003,Cookware Set,Home & Kitchen,3,242.88,0.1,Northeast,Retail Store,Debit Card
+TXN1000461,2023-01-22,CUST005327,P1003,Smartphone Max,Electronics,1,914.46,0.15,West,Inside Sales,ACH
+TXN1000462,2022-08-04,CUST009693,P5003,Security Monitoring Plan,Software,1,172.18,0.05,Midwest,Retail Store,Invoice
+TXN1000463,2024-11-25,CUST008788,P2001,Office Chair,Furniture,2,248.13,0.0,South,Online,Credit Card
+TXN1000464,2025-08-02,CUST006015,P3003,Cookware Set,Home & Kitchen,1,252.87,0.2,South,Wholesale,Credit Card
+TXN1000465,2023-09-19,CUST004874,P4003,Travel Backpack,Apparel,1,94.36,0.0,Northeast,Online,ACH
+TXN1000466,2025-07-27,CUST007172,P4002,Performance Jacket,Apparel,3,190.56,0.15,South,Inside Sales,Debit Card
+TXN1000467,2022-12-29,CUST014052,P5003,Security Monitoring Plan,Software,1,150.93,0.2,South,Inside Sales,Debit Card
+TXN1000468,2024-07-03,CUST006256,P1003,Smartphone Max,Electronics,1,781.88,0.0,Midwest,Inside Sales,Debit Card
+TXN1000469,2022-05-24,CUST004537,P3002,Air Fryer,Home & Kitchen,2,128.53,0.25,West,Partner,Credit Card
+TXN1000470,2024-04-25,CUST002051,P2003,Bookshelf,Furniture,1,195.61,0.1,Midwest,Retail Store,Credit Card
+TXN1000471,2024-08-17,CUST004782,P3001,Coffee Maker,Home & Kitchen,1,117.73,0.0,Midwest,Online,Credit Card
+TXN1000472,2024-08-25,CUST011955,P1002,Wireless Headphones,Electronics,2,149.96,0.15,International,Online,Debit Card
+TXN1000473,2025-02-25,CUST011646,P1002,Wireless Headphones,Electronics,3,173.57,0.1,West,Online,ACH
+TXN1000474,2022-06-13,CUST006088,P2001,Office Chair,Furniture,1,251.06,0.05,Northeast,Partner,Debit Card
+TXN1000475,2023-02-25,CUST011368,P2001,Office Chair,Furniture,1,243.11,0.3,International,Online,Credit Card
+TXN1000476,2024-10-30,CUST008490,P3001,Coffee Maker,Home & Kitchen,4,114.91,0.15,South,Online,Credit Card
+TXN1000477,2024-06-09,CUST001185,P4001,Running Shoes,Apparel,3,131.77,0.0,South,Online,Credit Card
+TXN1000478,2025-11-07,CUST015384,P4001,Running Shoes,Apparel,2,139.71,0.15,West,Online,PayPal
+TXN1000479,2025-03-07,CUST015173,P2003,Bookshelf,Furniture,1,185.07,0.1,Midwest,Partner,Credit Card
+TXN1000480,2023-12-01,CUST001878,P2003,Bookshelf,Furniture,2,185.09,0.2,West,Wholesale,ACH
+TXN1000481,2024-03-06,CUST007147,P1003,Smartphone Max,Electronics,2,895.75,0.0,Midwest,Wholesale,Debit Card
+TXN1000482,2024-09-16,CUST006111,P4001,Running Shoes,Apparel,2,149.84,0.25,West,Retail Store,Invoice
+TXN1000483,2022-01-20,CUST002139,P2001,Office Chair,Furniture,2,202.71,0.25,South,Online,Credit Card
+TXN1000484,2023-07-12,CUST003736,P1001,Laptop Pro 14,Electronics,6,1322.19,0.1,International,Online,Debit Card
+TXN1000485,2022-07-23,CUST015282,P2003,Bookshelf,Furniture,1,204.68,0.1,South,Retail Store,Credit Card
+TXN1000486,2022-12-21,CUST015209,P3001,Coffee Maker,Home & Kitchen,5,119.06,0.25,Midwest,Retail Store,Debit Card
+TXN1000487,2025-05-21,CUST003583,P1004,4K Monitor,Electronics,1,384.12,0.2,South,Online,Debit Card
+TXN1000488,2024-04-01,CUST004609,P3003,Cookware Set,Home & Kitchen,2,231.37,0.1,Northeast,Retail Store,PayPal
+TXN1000489,2025-07-06,CUST003462,P3003,Cookware Set,Home & Kitchen,4,217.41,0.0,Northeast,Retail Store,Credit Card
+TXN1000490,2025-08-17,CUST014720,P4003,Travel Backpack,Apparel,1,90.49,0.0,Northeast,Retail Store,Credit Card
+TXN1000491,2025-04-14,CUST006245,P4002,Performance Jacket,Apparel,2,174.87,0.25,West,Retail Store,Debit Card
+TXN1000492,2025-01-23,CUST007137,P4002,Performance Jacket,Apparel,7,191.63,0.25,Northeast,Wholesale,Debit Card
+TXN1000493,2022-09-25,CUST003999,P2001,Office Chair,Furniture,1,269.56,0.05,West,Online,PayPal
+TXN1000494,2023-02-07,CUST007748,P5001,Project Management Suite,Software,1,39.35,0.25,West,Online,Credit Card
+TXN1000495,2024-11-12,CUST007947,P3003,Cookware Set,Home & Kitchen,3,283.92,0.3,Northeast,Wholesale,Credit Card
+TXN1000496,2023-04-06,CUST002335,P3001,Coffee Maker,Home & Kitchen,4,97.69,0.15,Northeast,Online,Debit Card
+TXN1000497,2023-07-28,CUST014412,P4001,Running Shoes,Apparel,2,140.5,0.2,West,Online,Invoice
+TXN1000498,2025-10-22,CUST008191,P2002,Standing Desk,Furniture,1,645.64,0.05,International,Online,Credit Card
+TXN1000499,2024-11-14,CUST013489,P3002,Air Fryer,Home & Kitchen,3,126.66,0.0,West,Retail Store,Credit Card
+TXN1000500,2022-07-01,CUST009706,P4003,Travel Backpack,Apparel,5,104.67,0.2,South,Online,PayPal
+TXN1000501,2024-12-01,CUST015878,P5002,Analytics Platform License,Software,2,239.53,0.2,Midwest,Online,Credit Card
+TXN1000502,2025-03-24,CUST015873,P5003,Security Monitoring Plan,Software,1,153.15,0.0,South,Retail Store,Credit Card
+TXN1000503,2025-09-21,CUST012454,P3002,Air Fryer,Home & Kitchen,5,125.08,0.0,Midwest,Retail Store,Credit Card
+TXN1000504,2024-10-20,CUST001403,P3002,Air Fryer,Home & Kitchen,2,128.22,0.1,South,Partner,Debit Card
+TXN1000505,2022-06-15,CUST003087,P5001,Project Management Suite,Software,1,35.5,0.1,West,Online,Debit Card
+TXN1000506,2025-01-29,CUST005153,P2001,Office Chair,Furniture,3,219.36,0.0,International,Partner,ACH
+TXN1000507,2024-09-11,CUST010873,P5002,Analytics Platform License,Software,1,250.21,0.0,South,Online,ACH
+TXN1000508,2023-11-15,CUST011686,P3002,Air Fryer,Home & Kitchen,1,146.97,0.1,International,Retail Store,Credit Card
+TXN1000509,2025-01-20,CUST007851,P1002,Wireless Headphones,Electronics,5,156.29,0.05,West,Online,Credit Card
+TXN1000510,2024-02-19,CUST012785,P1001,Laptop Pro 14,Electronics,2,1165.17,0.0,West,Retail Store,Credit Card
+TXN1000511,2025-10-16,CUST014510,P5002,Analytics Platform License,Software,3,256.33,0.05,International,Inside Sales,ACH
+TXN1000512,2025-10-16,CUST013845,P1001,Laptop Pro 14,Electronics,4,1290.23,0.1,Northeast,Wholesale,Debit Card
+TXN1000513,2022-12-06,CUST005659,P2001,Office Chair,Furniture,2,248.37,0.2,Midwest,Partner,Debit Card
+TXN1000514,2023-10-28,CUST002899,P2002,Standing Desk,Furniture,3,613.8,0.1,International,Online,ACH
+TXN1000515,2022-11-06,CUST011158,P1003,Smartphone Max,Electronics,1,935.43,0.05,Midwest,Retail Store,Debit Card
+TXN1000516,2023-05-24,CUST013908,P2001,Office Chair,Furniture,2,241.45,0.25,Northeast,Retail Store,Credit Card
+TXN1000517,2022-12-03,CUST013339,P4003,Travel Backpack,Apparel,1,86.25,0.0,West,Retail Store,Credit Card
+TXN1000518,2024-01-24,CUST000843,P1001,Laptop Pro 14,Electronics,2,1320.67,0.05,International,Online,Credit Card
+TXN1000519,2022-01-02,CUST013228,P5002,Analytics Platform License,Software,2,243.58,0.15,Midwest,Online,Invoice
+TXN1000520,2025-03-20,CUST013163,P5002,Analytics Platform License,Software,1,252.58,0.1,West,Partner,PayPal
+TXN1000521,2022-09-15,CUST011628,P2002,Standing Desk,Furniture,1,516.38,0.1,South,Retail Store,Debit Card
+TXN1000522,2023-02-16,CUST002354,P1003,Smartphone Max,Electronics,1,1018.4,0.05,International,Online,Credit Card
+TXN1000523,2022-10-07,CUST011070,P4001,Running Shoes,Apparel,1,127.7,0.0,Northeast,Online,PayPal
+TXN1000524,2023-06-27,CUST005967,P1002,Wireless Headphones,Electronics,4,162.27,0.05,South,Inside Sales,Credit Card
+TXN1000525,2022-05-18,CUST012411,P2002,Standing Desk,Furniture,7,517.64,0.05,South,Wholesale,Credit Card
+TXN1000526,2025-07-04,CUST015676,P6001,Commercial Printer,Office Supplies,2,453.82,0.0,West,Wholesale,PayPal
+TXN1000527,2023-09-24,CUST003274,P6002,Desk Organizer Set,Office Supplies,2,37.9,0.05,Northeast,Wholesale,Credit Card
+TXN1000528,2025-10-06,CUST009014,P5001,Project Management Suite,Software,1,40.41,0.05,Northeast,Retail Store,Invoice
+TXN1000529,2022-03-30,CUST010079,P2001,Office Chair,Furniture,5,247.35,0.3,West,Online,Credit Card
+TXN1000530,2022-10-04,CUST015057,P4002,Performance Jacket,Apparel,2,199.68,0.1,South,Online,Invoice
+TXN1000531,2025-05-31,CUST013326,P4003,Travel Backpack,Apparel,1,90.87,0.0,Midwest,Retail Store,Debit Card
+TXN1000532,2023-11-23,CUST009245,P2003,Bookshelf,Furniture,2,189.55,0.1,Midwest,Partner,Credit Card
+TXN1000533,2022-04-20,CUST013868,P4001,Running Shoes,Apparel,2,130.81,0.05,International,Inside Sales,Invoice
+TXN1000534,2022-03-29,CUST004709,P1001,Laptop Pro 14,Electronics,1,1240.06,0.15,International,Retail Store,Credit Card
+TXN1000535,2025-08-26,CUST012287,P1003,Smartphone Max,Electronics,1,821.87,0.05,Northeast,Partner,PayPal
+TXN1000536,2023-01-23,CUST004528,P3002,Air Fryer,Home & Kitchen,1,132.93,0.0,Northeast,Online,Credit Card
+TXN1000537,2023-09-18,CUST000099,P1003,Smartphone Max,Electronics,1,909.63,0.0,Northeast,Online,Credit Card
+TXN1000538,2025-08-29,CUST008686,P1003,Smartphone Max,Electronics,1,815.84,0.2,West,Online,Credit Card
+TXN1000539,2024-09-27,CUST002635,P5002,Analytics Platform License,Software,3,230.19,0.25,Midwest,Online,Credit Card
+TXN1000540,2025-02-08,CUST011541,P6002,Desk Organizer Set,Office Supplies,5,35.86,0.25,South,Wholesale,Debit Card
+TXN1000541,2023-12-02,CUST013861,P3003,Cookware Set,Home & Kitchen,1,253.78,0.0,Midwest,Wholesale,Credit Card
+TXN1000542,2024-11-02,CUST000299,P5002,Analytics Platform License,Software,1,233.03,0.0,Midwest,Online,Credit Card
+TXN1000543,2024-05-29,CUST012256,P6002,Desk Organizer Set,Office Supplies,1,38.79,0.0,South,Online,Debit Card
+TXN1000544,2022-10-01,CUST004215,P1002,Wireless Headphones,Electronics,4,157.17,0.2,Midwest,Inside Sales,Credit Card
+TXN1000545,2024-05-10,CUST004685,P3001,Coffee Maker,Home & Kitchen,1,135.57,0.05,Northeast,Online,ACH
+TXN1000546,2025-10-08,CUST002680,P2003,Bookshelf,Furniture,6,170.72,0.0,Midwest,Online,Credit Card
+TXN1000547,2023-06-14,CUST012580,P1002,Wireless Headphones,Electronics,1,167.56,0.05,West,Online,PayPal
+TXN1000548,2023-12-25,CUST002583,P5001,Project Management Suite,Software,1,33.99,0.2,West,Wholesale,Debit Card
+TXN1000549,2023-09-25,CUST004454,P3001,Coffee Maker,Home & Kitchen,5,144.07,0.05,Northeast,Online,ACH
+TXN1000550,2024-10-25,CUST012682,P3001,Coffee Maker,Home & Kitchen,2,118.4,0.0,South,Retail Store,ACH
+TXN1000551,2024-07-30,CUST015062,P1003,Smartphone Max,Electronics,1,811.83,0.05,International,Online,PayPal
+TXN1000552,2023-12-08,CUST001218,P1003,Smartphone Max,Electronics,1,770.42,0.15,South,Online,Invoice
+TXN1000553,2022-03-30,CUST013690,P5003,Security Monitoring Plan,Software,6,159.4,0.1,Northeast,Online,PayPal
+TXN1000554,2023-01-28,CUST009960,P1001,Laptop Pro 14,Electronics,2,1321.88,0.25,South,Online,Credit Card
+TXN1000555,2023-04-28,CUST007395,P1004,4K Monitor,Electronics,2,344.66,0.0,Midwest,Online,Credit Card
+TXN1000556,2024-12-13,CUST009969,P2001,Office Chair,Furniture,1,235.07,0.0,International,Retail Store,Credit Card
+TXN1000557,2023-08-29,CUST002299,P3002,Air Fryer,Home & Kitchen,2,146.8,0.0,West,Retail Store,ACH
+TXN1000558,2023-08-01,CUST011356,P4001,Running Shoes,Apparel,1,117.58,0.0,Midwest,Online,Credit Card
+TXN1000559,2023-11-03,CUST015392,P3002,Air Fryer,Home & Kitchen,2,125.03,0.2,South,Inside Sales,PayPal
+TXN1000560,2023-10-16,CUST015470,P1002,Wireless Headphones,Electronics,3,139.34,0.1,Northeast,Online,Credit Card
+TXN1000561,2024-11-27,CUST010697,P1004,4K Monitor,Electronics,1,359.43,0.25,South,Wholesale,PayPal
+TXN1000562,2024-10-01,CUST005874,P5002,Analytics Platform License,Software,1,238.65,0.05,South,Retail Store,Credit Card
+TXN1000563,2025-01-25,CUST008466,P4001,Running Shoes,Apparel,4,142.71,0.0,South,Retail Store,Invoice
+TXN1000564,2022-11-16,CUST009114,P4002,Performance Jacket,Apparel,1,188.15,0.15,South,Online,PayPal
+TXN1000565,2024-12-22,CUST001538,P4002,Performance Jacket,Apparel,1,193.88,0.05,International,Online,Credit Card
+TXN1000566,2023-03-29,CUST001748,P5001,Project Management Suite,Software,4,32.08,0.25,South,Retail Store,Credit Card
+TXN1000567,2022-01-01,CUST007315,P1001,Laptop Pro 14,Electronics,4,1213.23,0.05,South,Online,PayPal
+TXN1000568,2024-08-18,CUST007657,P2002,Standing Desk,Furniture,2,618.47,0.2,Midwest,Retail Store,Credit Card
+TXN1000569,2022-01-23,CUST005247,P3003,Cookware Set,Home & Kitchen,3,242.38,0.1,West,Online,Debit Card
+TXN1000570,2022-06-18,CUST006909,P2002,Standing Desk,Furniture,3,523.97,0.0,Northeast,Wholesale,Credit Card
+TXN1000571,2022-03-20,CUST002725,P5002,Analytics Platform License,Software,4,261.63,0.1,Midwest,Online,PayPal
+TXN1000572,2024-06-30,CUST012992,P3002,Air Fryer,Home & Kitchen,3,131.71,0.1,West,Wholesale,Credit Card
+TXN1000573,2022-11-16,CUST012529,P5001,Project Management Suite,Software,3,37.78,0.15,Northeast,Retail Store,ACH
+TXN1000574,2025-04-19,CUST010540,P5002,Analytics Platform License,Software,5,253.83,0.05,Midwest,Retail Store,Debit Card
+TXN1000575,2023-07-01,CUST008787,P3002,Air Fryer,Home & Kitchen,4,140.02,0.2,Northeast,Online,PayPal
+TXN1000576,2023-05-30,CUST007691,P5003,Security Monitoring Plan,Software,2,142.53,0.25,South,Retail Store,Credit Card
+TXN1000577,2024-01-29,CUST003926,P4001,Running Shoes,Apparel,1,128.7,0.0,South,Retail Store,Credit Card
+TXN1000578,2025-02-18,CUST007873,P5002,Analytics Platform License,Software,4,249.09,0.2,Midwest,Online,Credit Card
+TXN1000579,2024-11-03,CUST000056,P2002,Standing Desk,Furniture,2,542.78,0.25,Midwest,Online,Credit Card
+TXN1000580,2022-11-15,CUST014006,P3002,Air Fryer,Home & Kitchen,5,147.28,0.0,West,Online,Debit Card
+TXN1000581,2025-01-26,CUST004884,P3002,Air Fryer,Home & Kitchen,3,150.31,0.1,West,Wholesale,Credit Card
+TXN1000582,2024-01-14,CUST014000,P1002,Wireless Headphones,Electronics,2,141.15,0.2,Northeast,Online,Credit Card
+TXN1000583,2025-12-18,CUST012040,P2003,Bookshelf,Furniture,4,170.49,0.05,South,Partner,PayPal
+TXN1000584,2024-02-02,CUST004452,P5003,Security Monitoring Plan,Software,3,175.71,0.0,West,Partner,Invoice
+TXN1000585,2023-03-11,CUST002690,P4001,Running Shoes,Apparel,2,126.94,0.2,West,Online,ACH
+TXN1000586,2025-01-21,CUST012767,P1003,Smartphone Max,Electronics,4,983.04,0.05,International,Online,Debit Card
+TXN1000587,2022-02-26,CUST009369,P2002,Standing Desk,Furniture,2,706.2,0.0,South,Wholesale,Credit Card
+TXN1000588,2024-12-05,CUST012944,P1003,Smartphone Max,Electronics,2,884.45,0.1,West,Online,ACH
+TXN1000589,2024-03-23,CUST010579,P1001,Laptop Pro 14,Electronics,4,1342.46,0.0,Midwest,Wholesale,Credit Card
+TXN1000590,2022-10-08,CUST004396,P5003,Security Monitoring Plan,Software,2,172.43,0.0,Midwest,Wholesale,Credit Card
+TXN1000591,2022-02-16,CUST001502,P3001,Coffee Maker,Home & Kitchen,4,125.91,0.3,International,Online,Credit Card
+TXN1000592,2022-03-29,CUST010407,P2001,Office Chair,Furniture,2,207.87,0.0,South,Inside Sales,Debit Card
+TXN1000593,2022-05-25,CUST004438,P4001,Running Shoes,Apparel,2,122.0,0.0,Midwest,Online,Credit Card
+TXN1000594,2023-12-19,CUST010834,P1001,Laptop Pro 14,Electronics,1,1243.47,0.25,West,Retail Store,Credit Card
+TXN1000595,2024-11-16,CUST012052,P2001,Office Chair,Furniture,2,236.92,0.05,West,Online,PayPal
+TXN1000596,2022-08-09,CUST015087,P4003,Travel Backpack,Apparel,2,102.95,0.05,Northeast,Online,PayPal
+TXN1000597,2022-09-15,CUST002122,P4001,Running Shoes,Apparel,2,128.83,0.05,South,Online,ACH
+TXN1000598,2025-04-27,CUST006266,P6002,Desk Organizer Set,Office Supplies,2,36.21,0.0,Northeast,Online,Credit Card
+TXN1000599,2022-12-08,CUST015302,P4001,Running Shoes,Apparel,2,128.18,0.05,South,Retail Store,Credit Card
+TXN1000600,2025-05-19,CUST005773,P3002,Air Fryer,Home & Kitchen,1,136.68,0.0,Midwest,Inside Sales,PayPal
+TXN1000601,2022-06-14,CUST011685,P5001,Project Management Suite,Software,1,34.51,0.1,South,Online,Invoice
+TXN1000602,2025-06-02,CUST010816,P5003,Security Monitoring Plan,Software,1,164.04,0.05,Midwest,Retail Store,PayPal
+TXN1000603,2024-12-13,CUST004344,P4003,Travel Backpack,Apparel,1,98.33,0.0,Northeast,Online,PayPal
+TXN1000604,2022-08-31,CUST010190,P6001,Commercial Printer,Office Supplies,3,456.69,0.05,South,Online,Credit Card
+TXN1000605,2023-06-04,CUST011210,P5001,Project Management Suite,Software,1,45.03,0.1,Midwest,Retail Store,ACH
+TXN1000606,2023-05-27,CUST002059,P5002,Analytics Platform License,Software,3,259.73,0.0,West,Retail Store,Credit Card
+TXN1000607,2022-08-10,CUST015052,P1002,Wireless Headphones,Electronics,1,143.85,0.05,Midwest,Retail Store,Debit Card
+TXN1000608,2023-07-31,CUST010823,P4003,Travel Backpack,Apparel,5,91.76,0.05,South,Retail Store,Credit Card
+TXN1000609,2024-10-11,CUST000648,P3001,Coffee Maker,Home & Kitchen,1,125.38,0.2,West,Online,Credit Card
+TXN1000610,2024-12-11,CUST005577,P3003,Cookware Set,Home & Kitchen,4,251.77,0.0,West,Partner,ACH
+TXN1000611,2022-11-11,CUST004748,P4002,Performance Jacket,Apparel,2,207.16,0.0,International,Retail Store,Credit Card
+TXN1000612,2024-12-02,CUST011598,P6001,Commercial Printer,Office Supplies,1,482.62,0.15,Northeast,Online,Credit Card
+TXN1000613,2023-02-01,CUST003708,P6002,Desk Organizer Set,Office Supplies,2,37.7,0.15,Northeast,Online,Credit Card
+TXN1000614,2022-03-22,CUST002323,P2001,Office Chair,Furniture,2,215.66,0.1,Midwest,Partner,Credit Card
+TXN1000615,2022-11-01,CUST004652,P4003,Travel Backpack,Apparel,3,107.62,0.1,Midwest,Inside Sales,Debit Card
+TXN1000616,2023-06-10,CUST011607,P4003,Travel Backpack,Apparel,1,95.99,0.0,South,Retail Store,ACH
+TXN1000617,2022-03-10,CUST007999,P2002,Standing Desk,Furniture,7,642.99,0.0,Northeast,Retail Store,Credit Card
+TXN1000618,2022-06-14,CUST014734,P1002,Wireless Headphones,Electronics,2,161.34,0.15,Northeast,Wholesale,ACH
+TXN1000619,2023-06-30,CUST012909,P1001,Laptop Pro 14,Electronics,7,1435.77,0.15,West,Inside Sales,Debit Card
+TXN1000620,2025-10-06,CUST011359,P5001,Project Management Suite,Software,4,36.67,0.05,South,Retail Store,Credit Card
+TXN1000621,2024-08-12,CUST008020,P3002,Air Fryer,Home & Kitchen,4,126.89,0.0,Midwest,Online,Debit Card
+TXN1000622,2025-10-19,CUST015131,P6002,Desk Organizer Set,Office Supplies,2,32.15,0.0,South,Partner,PayPal
+TXN1000623,2022-03-13,CUST004818,P3001,Coffee Maker,Home & Kitchen,7,113.96,0.2,Northeast,Partner,Credit Card
+TXN1000624,2025-07-17,CUST013220,P6001,Commercial Printer,Office Supplies,4,427.41,0.3,Midwest,Inside Sales,Credit Card
+TXN1000625,2022-08-12,CUST009695,P2003,Bookshelf,Furniture,2,197.88,0.05,Northeast,Online,PayPal
+TXN1000626,2022-12-18,CUST013651,P5001,Project Management Suite,Software,1,42.32,0.0,International,Retail Store,PayPal
+TXN1000627,2022-06-22,CUST012011,P1002,Wireless Headphones,Electronics,4,142.93,0.0,South,Wholesale,PayPal
+TXN1000628,2023-09-19,CUST010990,P3003,Cookware Set,Home & Kitchen,2,246.24,0.25,West,Online,PayPal
+TXN1000629,2022-11-10,CUST009211,P5001,Project Management Suite,Software,3,43.84,0.0,Midwest,Online,Invoice
+TXN1000630,2024-12-20,CUST007064,P5003,Security Monitoring Plan,Software,1,152.24,0.0,West,Inside Sales,PayPal
+TXN1000631,2025-01-10,CUST007302,P5002,Analytics Platform License,Software,4,252.98,0.05,West,Inside Sales,Debit Card
+TXN1000632,2023-03-19,CUST000051,P1001,Laptop Pro 14,Electronics,2,1163.47,0.0,West,Wholesale,Debit Card
+TXN1000633,2025-04-03,CUST006677,P2002,Standing Desk,Furniture,6,598.07,0.2,South,Inside Sales,Credit Card
+TXN1000634,2022-09-22,CUST004097,P1001,Laptop Pro 14,Electronics,1,1348.12,0.0,Northeast,Wholesale,Credit Card
+TXN1000635,2022-03-18,CUST006436,P1002,Wireless Headphones,Electronics,5,147.89,0.15,West,Wholesale,Credit Card
+TXN1000636,2022-09-24,CUST009159,P4002,Performance Jacket,Apparel,4,198.12,0.05,South,Wholesale,Invoice
+TXN1000637,2022-12-27,CUST005037,P4003,Travel Backpack,Apparel,5,94.63,0.0,South,Online,ACH
+TXN1000638,2022-04-04,CUST002373,P5001,Project Management Suite,Software,1,39.43,0.15,Northeast,Inside Sales,Debit Card
+TXN1000639,2022-07-05,CUST006278,P5002,Analytics Platform License,Software,1,259.65,0.15,West,Online,Credit Card
+TXN1000640,2023-04-09,CUST003680,P4003,Travel Backpack,Apparel,4,96.92,0.15,West,Partner,PayPal
+TXN1000641,2025-06-24,CUST000439,P5001,Project Management Suite,Software,1,41.15,0.05,Northeast,Wholesale,Credit Card
+TXN1000642,2025-06-29,CUST015216,P1001,Laptop Pro 14,Electronics,2,1258.32,0.05,International,Online,Credit Card
+TXN1000643,2025-12-25,CUST004125,P1004,4K Monitor,Electronics,7,392.82,0.0,West,Wholesale,Debit Card
+TXN1000644,2022-06-18,CUST012036,P4001,Running Shoes,Apparel,1,127.88,0.1,Northeast,Retail Store,Credit Card
+TXN1000645,2022-01-04,CUST008632,P5002,Analytics Platform License,Software,2,218.82,0.05,West,Retail Store,Debit Card
+TXN1000646,2024-04-29,CUST009716,P1001,Laptop Pro 14,Electronics,2,1384.74,0.0,Midwest,Partner,Debit Card
+TXN1000647,2024-06-25,CUST015865,P3002,Air Fryer,Home & Kitchen,1,146.91,0.0,West,Retail Store,ACH
+TXN1000648,2022-12-17,CUST007981,P4002,Performance Jacket,Apparel,1,204.42,0.05,West,Inside Sales,PayPal
+TXN1000649,2025-03-30,CUST002313,P1001,Laptop Pro 14,Electronics,3,1287.25,0.0,South,Retail Store,Credit Card
+TXN1000650,2025-11-14,CUST002554,P2003,Bookshelf,Furniture,1,186.11,0.0,Northeast,Online,ACH
+TXN1000651,2023-05-25,CUST015005,P5003,Security Monitoring Plan,Software,5,159.0,0.0,West,Online,Debit Card
+TXN1000652,2025-11-03,CUST006248,P4002,Performance Jacket,Apparel,2,180.2,0.1,International,Retail Store,Credit Card
+TXN1000653,2022-06-27,CUST010029,P1004,4K Monitor,Electronics,5,313.24,0.0,West,Wholesale,Credit Card
+TXN1000654,2023-12-06,CUST002151,P5002,Analytics Platform License,Software,2,264.87,0.1,West,Retail Store,PayPal
+TXN1000655,2022-11-04,CUST014257,P2002,Standing Desk,Furniture,2,572.5,0.0,West,Inside Sales,Debit Card
+TXN1000656,2024-05-29,CUST005302,P5002,Analytics Platform License,Software,2,257.26,0.2,West,Wholesale,Credit Card
+TXN1000657,2022-05-08,CUST014906,P2001,Office Chair,Furniture,1,224.57,0.1,International,Online,Credit Card
+TXN1000658,2024-01-09,CUST003508,P4001,Running Shoes,Apparel,2,139.94,0.05,South,Online,Credit Card
+TXN1000659,2022-10-05,CUST009226,P2003,Bookshelf,Furniture,5,170.38,0.0,West,Online,Credit Card
+TXN1000660,2023-09-27,CUST015775,P1004,4K Monitor,Electronics,1,366.02,0.05,Midwest,Online,PayPal
+TXN1000661,2024-10-24,CUST000077,P5002,Analytics Platform License,Software,3,242.13,0.1,Northeast,Online,ACH
+TXN1000662,2023-05-28,CUST003724,P1003,Smartphone Max,Electronics,3,984.11,0.0,South,Online,Debit Card
+TXN1000663,2024-03-18,CUST004162,P1002,Wireless Headphones,Electronics,4,138.24,0.0,South,Retail Store,PayPal
+TXN1000664,2025-12-02,CUST004913,P2002,Standing Desk,Furniture,4,669.18,0.25,South,Online,PayPal
+TXN1000665,2025-07-28,CUST010765,P4003,Travel Backpack,Apparel,2,93.06,0.0,Northeast,Inside Sales,ACH
+TXN1000666,2025-12-28,CUST007030,P5001,Project Management Suite,Software,3,40.0,0.0,Northeast,Retail Store,Invoice
+TXN1000667,2022-10-10,CUST011154,P6002,Desk Organizer Set,Office Supplies,1,34.59,0.05,South,Online,Debit Card
+TXN1000668,2023-12-26,CUST015831,P2001,Office Chair,Furniture,2,205.37,0.0,Northeast,Wholesale,PayPal
+TXN1000669,2025-03-07,CUST000980,P2003,Bookshelf,Furniture,3,135.17,0.1,International,Retail Store,PayPal
+TXN1000670,2025-10-12,CUST001156,P1002,Wireless Headphones,Electronics,2,143.7,0.1,South,Online,Credit Card
+TXN1000671,2022-12-22,CUST007082,P3003,Cookware Set,Home & Kitchen,2,217.97,0.15,West,Retail Store,PayPal
+TXN1000672,2025-12-19,CUST007733,P6002,Desk Organizer Set,Office Supplies,1,30.8,0.05,South,Retail Store,Credit Card
+TXN1000673,2023-10-29,CUST011061,P4003,Travel Backpack,Apparel,2,115.02,0.1,South,Online,Credit Card
+TXN1000674,2025-02-12,CUST009655,P4001,Running Shoes,Apparel,2,128.73,0.0,West,Inside Sales,Invoice
+TXN1000675,2024-02-05,CUST003919,P2003,Bookshelf,Furniture,2,156.15,0.05,West,Inside Sales,Credit Card
+TXN1000676,2023-03-31,CUST007072,P5003,Security Monitoring Plan,Software,1,166.63,0.15,South,Online,Credit Card
+TXN1000677,2022-07-04,CUST002485,P3002,Air Fryer,Home & Kitchen,2,147.27,0.05,South,Retail Store,PayPal
+TXN1000678,2022-09-19,CUST013354,P1002,Wireless Headphones,Electronics,3,145.56,0.0,West,Online,Debit Card
+TXN1000679,2024-08-30,CUST010369,P2002,Standing Desk,Furniture,2,607.49,0.1,Northeast,Online,Credit Card
+TXN1000680,2024-04-10,CUST001141,P1001,Laptop Pro 14,Electronics,3,1319.43,0.0,International,Inside Sales,ACH
+TXN1000681,2023-10-17,CUST003540,P1003,Smartphone Max,Electronics,1,1005.18,0.0,West,Online,PayPal
+TXN1000682,2024-07-28,CUST000931,P1001,Laptop Pro 14,Electronics,3,1304.18,0.0,South,Wholesale,Debit Card
+TXN1000683,2024-01-15,CUST005833,P3001,Coffee Maker,Home & Kitchen,2,112.33,0.1,Northeast,Online,Credit Card
+TXN1000684,2022-08-21,CUST000786,P4001,Running Shoes,Apparel,1,110.8,0.0,West,Online,Credit Card
+TXN1000685,2023-01-23,CUST015374,P2002,Standing Desk,Furniture,6,611.74,0.2,South,Wholesale,Credit Card
+TXN1000686,2023-10-16,CUST002146,P3001,Coffee Maker,Home & Kitchen,4,119.38,0.05,Midwest,Retail Store,Credit Card
+TXN1000687,2023-08-31,CUST008380,P6001,Commercial Printer,Office Supplies,3,416.73,0.1,Northeast,Online,PayPal
+TXN1000688,2025-09-06,CUST014888,P4003,Travel Backpack,Apparel,6,110.38,0.0,Northeast,Retail Store,Credit Card
+TXN1000689,2025-10-29,CUST012889,P3003,Cookware Set,Home & Kitchen,4,226.39,0.15,South,Retail Store,Credit Card
+TXN1000690,2024-03-07,CUST008970,P2001,Office Chair,Furniture,4,203.36,0.0,South,Wholesale,Debit Card
+TXN1000691,2023-01-30,CUST005205,P5003,Security Monitoring Plan,Software,5,158.37,0.0,Northeast,Partner,PayPal
+TXN1000692,2025-04-02,CUST011862,P1004,4K Monitor,Electronics,1,378.95,0.2,South,Retail Store,PayPal
+TXN1000693,2022-10-16,CUST004786,P2001,Office Chair,Furniture,2,261.77,0.05,West,Wholesale,PayPal
+TXN1000694,2023-12-24,CUST013882,P5003,Security Monitoring Plan,Software,3,167.93,0.0,Northeast,Online,Credit Card
+TXN1000695,2025-12-25,CUST001284,P3002,Air Fryer,Home & Kitchen,1,139.78,0.05,Midwest,Retail Store,Debit Card
+TXN1000696,2025-07-27,CUST015554,P4003,Travel Backpack,Apparel,3,105.92,0.2,South,Wholesale,Credit Card
+TXN1000697,2025-10-13,CUST010842,P4001,Running Shoes,Apparel,6,133.68,0.0,South,Retail Store,PayPal
+TXN1000698,2022-06-18,CUST004731,P4002,Performance Jacket,Apparel,1,184.65,0.1,South,Retail Store,Debit Card
+TXN1000699,2023-11-21,CUST007803,P2001,Office Chair,Furniture,2,258.67,0.0,International,Wholesale,PayPal
+TXN1000700,2025-02-06,CUST006648,P1004,4K Monitor,Electronics,1,320.96,0.05,West,Wholesale,Credit Card
+TXN1000701,2022-09-11,CUST004869,P2001,Office Chair,Furniture,5,216.44,0.0,Midwest,Retail Store,PayPal
+TXN1000702,2025-02-05,CUST007697,P1003,Smartphone Max,Electronics,1,937.17,0.05,International,Online,Credit Card
+TXN1000703,2023-06-09,CUST001245,P5002,Analytics Platform License,Software,5,226.74,0.0,South,Retail Store,ACH
+TXN1000704,2025-08-14,CUST005938,P2001,Office Chair,Furniture,6,215.15,0.05,West,Inside Sales,ACH
+TXN1000705,2023-09-28,CUST014792,P3003,Cookware Set,Home & Kitchen,2,233.58,0.15,Northeast,Inside Sales,Invoice
+TXN1000706,2023-01-01,CUST003490,P5001,Project Management Suite,Software,1,31.92,0.0,Northeast,Wholesale,Credit Card
+TXN1000707,2025-09-26,CUST014009,P5001,Project Management Suite,Software,1,35.34,0.0,Midwest,Online,Credit Card
+TXN1000708,2024-11-22,CUST010131,P3001,Coffee Maker,Home & Kitchen,3,119.98,0.3,West,Inside Sales,Credit Card
+TXN1000709,2023-11-22,CUST006996,P3002,Air Fryer,Home & Kitchen,1,130.06,0.2,Midwest,Retail Store,Credit Card
+TXN1000710,2025-11-20,CUST004154,P6002,Desk Organizer Set,Office Supplies,2,36.23,0.0,South,Retail Store,Credit Card
+TXN1000711,2024-06-24,CUST001210,P4002,Performance Jacket,Apparel,3,198.43,0.0,West,Wholesale,PayPal
+TXN1000712,2024-06-02,CUST013417,P5001,Project Management Suite,Software,1,38.91,0.0,South,Online,Credit Card
+TXN1000713,2023-07-08,CUST008713,P5003,Security Monitoring Plan,Software,6,144.57,0.0,South,Online,Invoice
+TXN1000714,2025-05-29,CUST012910,P5001,Project Management Suite,Software,1,37.83,0.0,Northeast,Online,ACH
+TXN1000715,2024-05-30,CUST008788,P1003,Smartphone Max,Electronics,1,918.19,0.0,West,Wholesale,Credit Card
+TXN1000716,2024-07-22,CUST012621,P3003,Cookware Set,Home & Kitchen,4,248.13,0.0,Northeast,Retail Store,Credit Card
+TXN1000717,2025-10-22,CUST005725,P1002,Wireless Headphones,Electronics,4,127.07,0.1,West,Wholesale,Debit Card
+TXN1000718,2023-02-08,CUST006929,P4002,Performance Jacket,Apparel,4,203.32,0.0,South,Retail Store,Credit Card
+TXN1000719,2025-03-19,CUST004245,P6001,Commercial Printer,Office Supplies,2,482.77,0.0,South,Online,Debit Card
+TXN1000720,2025-04-22,CUST009164,P3002,Air Fryer,Home & Kitchen,2,138.68,0.1,Northeast,Online,PayPal
+TXN1000721,2022-04-26,CUST013905,P3001,Coffee Maker,Home & Kitchen,1,116.73,0.0,South,Online,Debit Card
+TXN1000722,2024-12-02,CUST005479,P1001,Laptop Pro 14,Electronics,2,1232.82,0.05,South,Retail Store,Credit Card
+TXN1000723,2025-05-23,CUST011708,P6001,Commercial Printer,Office Supplies,2,446.09,0.2,West,Online,Debit Card
+TXN1000724,2024-03-11,CUST005297,P1002,Wireless Headphones,Electronics,2,140.0,0.05,International,Online,Credit Card
+TXN1000725,2022-07-07,CUST011845,P1001,Laptop Pro 14,Electronics,2,1129.61,0.0,Northeast,Retail Store,Credit Card
+TXN1000726,2022-05-21,CUST009144,P1004,4K Monitor,Electronics,1,323.48,0.05,Northeast,Online,Invoice
+TXN1000727,2022-02-15,CUST014937,P1001,Laptop Pro 14,Electronics,2,1253.86,0.1,West,Partner,Credit Card
+TXN1000728,2023-07-15,CUST004529,P3001,Coffee Maker,Home & Kitchen,2,119.32,0.0,West,Online,PayPal
+TXN1000729,2024-07-21,CUST002422,P3002,Air Fryer,Home & Kitchen,3,154.57,0.0,Midwest,Retail Store,Debit Card
+TXN1000730,2024-05-06,CUST015017,P2001,Office Chair,Furniture,1,196.21,0.0,South,Retail Store,Credit Card
+TXN1000731,2024-01-20,CUST002222,P1001,Laptop Pro 14,Electronics,1,1266.71,0.2,Northeast,Inside Sales,PayPal
+TXN1000732,2023-09-27,CUST011535,P1002,Wireless Headphones,Electronics,2,135.18,0.15,International,Online,Debit Card
+TXN1000733,2024-10-14,CUST014109,P2003,Bookshelf,Furniture,1,199.31,0.0,South,Inside Sales,Debit Card
+TXN1000734,2025-08-08,CUST003635,P1001,Laptop Pro 14,Electronics,3,1349.49,0.05,South,Online,Debit Card
+TXN1000735,2025-05-17,CUST004260,P4003,Travel Backpack,Apparel,1,91.52,0.0,South,Online,Debit Card
+TXN1000736,2024-11-24,CUST005912,P1003,Smartphone Max,Electronics,3,932.66,0.2,Midwest,Wholesale,PayPal
+TXN1000737,2023-03-22,CUST011155,P2001,Office Chair,Furniture,2,244.34,0.0,Midwest,Online,PayPal
+TXN1000738,2025-10-27,CUST010507,P2003,Bookshelf,Furniture,1,194.41,0.1,West,Wholesale,Credit Card
+TXN1000739,2025-07-07,CUST005801,P2003,Bookshelf,Furniture,1,187.57,0.0,Midwest,Wholesale,Credit Card
+TXN1000740,2025-11-05,CUST013308,P1001,Laptop Pro 14,Electronics,4,1470.25,0.05,West,Partner,Credit Card
+TXN1000741,2024-07-18,CUST006031,P1002,Wireless Headphones,Electronics,4,140.68,0.25,West,Retail Store,Invoice
+TXN1000742,2023-05-27,CUST011385,P5002,Analytics Platform License,Software,1,302.19,0.0,Midwest,Retail Store,Invoice
+TXN1000743,2023-11-10,CUST009217,P1001,Laptop Pro 14,Electronics,1,1497.73,0.1,South,Online,PayPal
+TXN1000744,2023-05-18,CUST003747,P3002,Air Fryer,Home & Kitchen,3,145.95,0.15,South,Wholesale,Credit Card
+TXN1000745,2023-06-23,CUST008747,P3002,Air Fryer,Home & Kitchen,1,125.33,0.0,Northeast,Wholesale,Debit Card
+TXN1000746,2023-10-08,CUST008257,P2001,Office Chair,Furniture,2,198.61,0.1,International,Wholesale,Debit Card
+TXN1000747,2025-10-20,CUST009448,P3001,Coffee Maker,Home & Kitchen,4,106.04,0.0,South,Online,Credit Card
+TXN1000748,2023-12-29,CUST005425,P5001,Project Management Suite,Software,2,44.32,0.0,West,Online,PayPal
+TXN1000749,2023-09-09,CUST011951,P5002,Analytics Platform License,Software,3,243.64,0.1,International,Online,Credit Card
+TXN1000750,2024-08-18,CUST006087,P1004,4K Monitor,Electronics,2,340.46,0.1,South,Online,PayPal
+TXN1000751,2023-03-11,CUST015473,P2001,Office Chair,Furniture,5,204.75,0.0,Northeast,Retail Store,Credit Card
+TXN1000752,2022-01-17,CUST003560,P1004,4K Monitor,Electronics,2,349.1,0.1,West,Wholesale,ACH
+TXN1000753,2024-12-10,CUST001446,P3002,Air Fryer,Home & Kitchen,2,142.51,0.0,Midwest,Inside Sales,ACH
+TXN1000754,2023-05-26,CUST014427,P4002,Performance Jacket,Apparel,1,208.15,0.3,West,Wholesale,Credit Card
+TXN1000755,2022-12-18,CUST008752,P1004,4K Monitor,Electronics,5,329.99,0.05,South,Online,PayPal
+TXN1000756,2024-03-08,CUST011209,P2001,Office Chair,Furniture,1,198.98,0.25,Northeast,Online,Credit Card
+TXN1000757,2022-09-18,CUST006279,P5003,Security Monitoring Plan,Software,4,130.93,0.05,West,Retail Store,Credit Card
+TXN1000758,2023-02-24,CUST002344,P1001,Laptop Pro 14,Electronics,1,1342.85,0.1,International,Partner,Invoice
+TXN1000759,2024-01-24,CUST012989,P3001,Coffee Maker,Home & Kitchen,2,114.43,0.2,West,Wholesale,Debit Card
+TXN1000760,2025-12-05,CUST014215,P4003,Travel Backpack,Apparel,3,90.45,0.0,West,Retail Store,Credit Card
+TXN1000761,2022-12-25,CUST006007,P1003,Smartphone Max,Electronics,1,947.89,0.0,South,Partner,Invoice
+TXN1000762,2023-11-27,CUST015720,P1001,Laptop Pro 14,Electronics,1,1373.33,0.0,South,Wholesale,Credit Card
+TXN1000763,2024-02-24,CUST010214,P1002,Wireless Headphones,Electronics,5,163.39,0.1,South,Online,PayPal
+TXN1000764,2024-11-22,CUST013644,P5003,Security Monitoring Plan,Software,1,163.55,0.25,Midwest,Online,ACH
+TXN1000765,2024-02-12,CUST004140,P1001,Laptop Pro 14,Electronics,1,1317.08,0.1,West,Inside Sales,Invoice
+TXN1000766,2024-12-14,CUST014449,P1003,Smartphone Max,Electronics,1,973.96,0.05,South,Retail Store,Credit Card
+TXN1000767,2025-07-12,CUST001601,P1001,Laptop Pro 14,Electronics,1,1328.58,0.15,South,Retail Store,Debit Card
+TXN1000768,2023-03-05,CUST007609,P1002,Wireless Headphones,Electronics,4,169.12,0.05,Midwest,Online,Credit Card
+TXN1000769,2025-05-31,CUST001734,P4001,Running Shoes,Apparel,2,128.18,0.05,Northeast,Retail Store,Credit Card
+TXN1000770,2023-01-25,CUST001948,P1004,4K Monitor,Electronics,1,326.88,0.15,International,Online,Credit Card
+TXN1000771,2025-04-19,CUST014123,P3003,Cookware Set,Home & Kitchen,1,271.8,0.0,South,Partner,Credit Card
+TXN1000772,2024-08-13,CUST006318,P4001,Running Shoes,Apparel,7,134.27,0.0,International,Retail Store,Debit Card
+TXN1000773,2024-05-04,CUST002978,P5002,Analytics Platform License,Software,3,234.87,0.05,Northeast,Partner,ACH
+TXN1000774,2023-11-23,CUST013138,P1001,Laptop Pro 14,Electronics,5,1443.06,0.1,Midwest,Retail Store,Credit Card
+TXN1000775,2024-03-27,CUST013570,P5002,Analytics Platform License,Software,2,236.49,0.15,West,Online,PayPal
+TXN1000776,2022-12-15,CUST011046,P4001,Running Shoes,Apparel,2,127.62,0.2,Northeast,Inside Sales,Credit Card
+TXN1000777,2023-12-30,CUST002790,P1003,Smartphone Max,Electronics,3,763.49,0.0,Midwest,Retail Store,Credit Card
+TXN1000778,2024-07-03,CUST004525,P5001,Project Management Suite,Software,3,43.17,0.1,Northeast,Wholesale,PayPal
+TXN1000779,2023-08-06,CUST014317,P5002,Analytics Platform License,Software,1,263.04,0.1,Northeast,Online,PayPal
+TXN1000780,2023-08-07,CUST013109,P1004,4K Monitor,Electronics,2,371.05,0.0,Northeast,Online,ACH
+TXN1000781,2023-06-17,CUST015695,P5003,Security Monitoring Plan,Software,3,157.94,0.25,South,Partner,ACH
+TXN1000782,2025-05-03,CUST001207,P3001,Coffee Maker,Home & Kitchen,1,124.39,0.0,South,Online,Credit Card
+TXN1000783,2023-08-11,CUST004936,P4001,Running Shoes,Apparel,1,136.39,0.15,International,Retail Store,Credit Card
+TXN1000784,2024-05-22,CUST015237,P6002,Desk Organizer Set,Office Supplies,4,37.73,0.1,International,Inside Sales,Credit Card
+TXN1000785,2025-12-02,CUST013957,P2002,Standing Desk,Furniture,1,577.09,0.1,South,Wholesale,Credit Card
+TXN1000786,2022-02-28,CUST007013,P5001,Project Management Suite,Software,6,38.71,0.05,West,Retail Store,Credit Card
+TXN1000787,2022-11-30,CUST008839,P2001,Office Chair,Furniture,1,203.25,0.0,West,Online,PayPal
+TXN1000788,2025-10-07,CUST015584,P5001,Project Management Suite,Software,7,42.5,0.05,South,Online,PayPal
+TXN1000789,2024-11-26,CUST014837,P4001,Running Shoes,Apparel,2,125.46,0.0,Northeast,Online,Credit Card
+TXN1000790,2023-07-30,CUST008533,P1003,Smartphone Max,Electronics,1,835.05,0.15,West,Online,Credit Card
+TXN1000791,2022-06-06,CUST014628,P2003,Bookshelf,Furniture,6,171.55,0.15,South,Online,Credit Card
+TXN1000792,2024-01-27,CUST013098,P2001,Office Chair,Furniture,7,206.08,0.2,Northeast,Online,Debit Card
+TXN1000793,2025-03-06,CUST004214,P1002,Wireless Headphones,Electronics,3,142.34,0.0,South,Inside Sales,Debit Card
+TXN1000794,2023-10-05,CUST003423,P1001,Laptop Pro 14,Electronics,5,1274.28,0.0,Midwest,Inside Sales,Credit Card
+TXN1000795,2025-06-12,CUST013640,P2002,Standing Desk,Furniture,1,653.18,0.1,South,Online,ACH
+TXN1000796,2023-03-19,CUST002753,P1001,Laptop Pro 14,Electronics,1,1135.55,0.0,South,Online,Credit Card
+TXN1000797,2023-12-27,CUST013788,P1003,Smartphone Max,Electronics,4,940.27,0.0,Northeast,Partner,PayPal
+TXN1000798,2022-06-07,CUST011086,P4003,Travel Backpack,Apparel,1,102.7,0.1,Northeast,Online,ACH
+TXN1000799,2024-02-19,CUST009645,P4003,Travel Backpack,Apparel,1,107.63,0.1,West,Retail Store,Credit Card
+TXN1000800,2025-07-07,CUST003692,P4003,Travel Backpack,Apparel,4,96.4,0.0,West,Retail Store,Invoice
+TXN1000801,2022-09-06,CUST013329,P2001,Office Chair,Furniture,1,223.89,0.0,West,Online,Debit Card
+TXN1000802,2024-07-05,CUST015115,P5002,Analytics Platform License,Software,4,225.77,0.2,South,Wholesale,PayPal
+TXN1000803,2023-04-28,CUST008662,P4001,Running Shoes,Apparel,2,130.89,0.15,South,Online,Invoice
+TXN1000804,2023-06-26,CUST015223,P1002,Wireless Headphones,Electronics,1,156.75,0.0,South,Inside Sales,Credit Card
+TXN1000805,2022-01-17,CUST001619,P1003,Smartphone Max,Electronics,1,932.24,0.0,South,Online,ACH
+TXN1000806,2024-03-05,CUST005553,P4002,Performance Jacket,Apparel,4,198.58,0.0,International,Online,Credit Card
+TXN1000807,2025-12-16,CUST001189,P1003,Smartphone Max,Electronics,4,897.93,0.1,Northeast,Wholesale,Credit Card
+TXN1000808,2022-08-29,CUST002978,P3002,Air Fryer,Home & Kitchen,1,126.11,0.05,West,Partner,Debit Card
+TXN1000809,2022-12-15,CUST014245,P6002,Desk Organizer Set,Office Supplies,1,30.69,0.0,South,Partner,Invoice
+TXN1000810,2022-12-07,CUST003233,P1001,Laptop Pro 14,Electronics,1,1188.76,0.05,International,Wholesale,Debit Card
+TXN1000811,2024-04-24,CUST011479,P1001,Laptop Pro 14,Electronics,3,1337.85,0.15,Northeast,Retail Store,Credit Card
+TXN1000812,2022-10-26,CUST001722,P6002,Desk Organizer Set,Office Supplies,1,32.21,0.1,Midwest,Partner,ACH
+TXN1000813,2025-11-09,CUST001895,P4001,Running Shoes,Apparel,1,140.85,0.0,South,Online,Credit Card
+TXN1000814,2024-11-03,CUST002853,P1002,Wireless Headphones,Electronics,1,143.29,0.0,Northeast,Online,Credit Card
+TXN1000815,2024-07-27,CUST013667,P5003,Security Monitoring Plan,Software,6,178.83,0.0,South,Retail Store,ACH
+TXN1000816,2022-01-08,CUST008819,P5002,Analytics Platform License,Software,4,202.91,0.0,South,Online,Invoice
+TXN1000817,2023-12-01,CUST014510,P3003,Cookware Set,Home & Kitchen,2,231.47,0.15,West,Inside Sales,Credit Card
+TXN1000818,2025-04-19,CUST007687,P4001,Running Shoes,Apparel,6,109.6,0.1,Midwest,Inside Sales,ACH
+TXN1000819,2024-01-14,CUST006685,P1004,4K Monitor,Electronics,2,353.65,0.05,West,Online,Debit Card
+TXN1000820,2024-12-19,CUST001810,P1001,Laptop Pro 14,Electronics,2,1222.45,0.15,West,Online,ACH
+TXN1000821,2024-10-16,CUST001770,P4001,Running Shoes,Apparel,1,112.8,0.0,Midwest,Retail Store,Invoice
+TXN1000822,2025-10-13,CUST010550,P2001,Office Chair,Furniture,2,242.98,0.0,West,Partner,ACH
+TXN1000823,2023-07-15,CUST012015,P4002,Performance Jacket,Apparel,1,194.99,0.05,Midwest,Wholesale,ACH
+TXN1000824,2025-05-15,CUST000546,P5002,Analytics Platform License,Software,1,275.9,0.0,Midwest,Online,Credit Card
+TXN1000825,2023-01-21,CUST012482,P1001,Laptop Pro 14,Electronics,1,1079.01,0.3,West,Online,Credit Card
+TXN1000826,2024-04-16,CUST011665,P4001,Running Shoes,Apparel,1,124.86,0.05,Northeast,Partner,Debit Card
+TXN1000827,2024-07-17,CUST005257,P1004,4K Monitor,Electronics,1,402.44,0.1,International,Retail Store,Debit Card
+TXN1000828,2023-10-30,CUST010026,P5002,Analytics Platform License,Software,3,298.83,0.05,West,Retail Store,ACH
+TXN1000829,2022-06-25,CUST010176,P1004,4K Monitor,Electronics,4,384.05,0.25,West,Inside Sales,ACH
+TXN1000830,2023-10-19,CUST004920,P4001,Running Shoes,Apparel,2,132.7,0.0,West,Retail Store,Credit Card
+TXN1000831,2022-11-04,CUST005227,P3003,Cookware Set,Home & Kitchen,2,272.11,0.0,Northeast,Retail Store,Credit Card
+TXN1000832,2023-12-18,CUST008459,P2003,Bookshelf,Furniture,4,182.71,0.0,Midwest,Wholesale,Debit Card
+TXN1000833,2022-02-09,CUST005966,P4002,Performance Jacket,Apparel,1,200.8,0.0,South,Inside Sales,Credit Card
+TXN1000834,2023-12-14,CUST000544,P4003,Travel Backpack,Apparel,2,95.58,0.15,Midwest,Retail Store,PayPal
+TXN1000835,2023-07-31,CUST002044,P3003,Cookware Set,Home & Kitchen,3,239.3,0.05,South,Inside Sales,Credit Card
+TXN1000836,2022-01-26,CUST003522,P5001,Project Management Suite,Software,3,33.71,0.0,West,Online,Credit Card
+TXN1000837,2024-07-24,CUST014489,P6002,Desk Organizer Set,Office Supplies,2,34.15,0.05,Midwest,Partner,PayPal
+TXN1000838,2023-04-26,CUST011804,P3001,Coffee Maker,Home & Kitchen,5,117.08,0.3,Northeast,Online,Credit Card
+TXN1000839,2024-05-26,CUST014786,P3002,Air Fryer,Home & Kitchen,1,141.47,0.2,West,Online,PayPal
+TXN1000840,2025-08-12,CUST006017,P1001,Laptop Pro 14,Electronics,1,1535.81,0.0,South,Online,Debit Card
+TXN1000841,2025-07-12,CUST009401,P5001,Project Management Suite,Software,2,38.44,0.0,West,Retail Store,Credit Card
+TXN1000842,2024-01-08,CUST002722,P3002,Air Fryer,Home & Kitchen,2,118.19,0.05,Midwest,Wholesale,Credit Card
+TXN1000843,2023-12-02,CUST004007,P2003,Bookshelf,Furniture,3,170.36,0.05,International,Online,Credit Card
+TXN1000844,2024-03-05,CUST006739,P1002,Wireless Headphones,Electronics,1,158.01,0.0,West,Retail Store,Credit Card
+TXN1000845,2023-08-20,CUST003087,P5002,Analytics Platform License,Software,3,284.51,0.0,Northeast,Inside Sales,Credit Card
+TXN1000846,2023-03-27,CUST007601,P2003,Bookshelf,Furniture,7,199.0,0.3,South,Partner,Debit Card
+TXN1000847,2022-09-14,CUST014186,P4002,Performance Jacket,Apparel,5,200.32,0.0,West,Wholesale,Debit Card
+TXN1000848,2025-09-24,CUST001008,P1003,Smartphone Max,Electronics,1,903.56,0.2,South,Online,ACH
+TXN1000849,2022-04-23,CUST003595,P6001,Commercial Printer,Office Supplies,3,450.63,0.0,Midwest,Retail Store,Debit Card
+TXN1000850,2023-06-14,CUST014576,P1003,Smartphone Max,Electronics,3,1071.72,0.1,Midwest,Wholesale,Credit Card
+TXN1000851,2022-09-26,CUST013554,P1003,Smartphone Max,Electronics,2,930.57,0.15,Northeast,Retail Store,ACH
+TXN1000852,2022-04-21,CUST008808,P5002,Analytics Platform License,Software,6,237.7,0.0,Northeast,Online,Debit Card
+TXN1000853,2022-10-04,CUST008616,P5003,Security Monitoring Plan,Software,1,153.47,0.0,Midwest,Retail Store,Debit Card
+TXN1000854,2023-11-14,CUST002457,P1003,Smartphone Max,Electronics,1,789.18,0.15,Midwest,Partner,PayPal
+TXN1000855,2024-04-18,CUST000032,P3001,Coffee Maker,Home & Kitchen,1,107.48,0.2,Northeast,Retail Store,Credit Card
+TXN1000856,2025-08-25,CUST015460,P4003,Travel Backpack,Apparel,1,99.09,0.0,West,Partner,Credit Card
+TXN1000857,2024-10-18,CUST011739,P5002,Analytics Platform License,Software,3,283.64,0.05,Northeast,Online,Credit Card
+TXN1000858,2025-04-07,CUST010664,P2002,Standing Desk,Furniture,1,594.9,0.05,West,Partner,Credit Card
+TXN1000859,2024-04-09,CUST008996,P3002,Air Fryer,Home & Kitchen,2,130.92,0.0,Northeast,Retail Store,Credit Card
+TXN1000860,2022-11-09,CUST010116,P4003,Travel Backpack,Apparel,3,99.28,0.05,Midwest,Retail Store,Credit Card
+TXN1000861,2025-06-21,CUST013851,P4003,Travel Backpack,Apparel,1,104.48,0.05,Midwest,Wholesale,Credit Card
+TXN1000862,2023-12-05,CUST004576,P5001,Project Management Suite,Software,1,34.19,0.25,South,Online,Debit Card
+TXN1000863,2025-02-10,CUST012302,P3003,Cookware Set,Home & Kitchen,3,222.31,0.1,South,Retail Store,Credit Card
+TXN1000864,2022-01-13,CUST000925,P1002,Wireless Headphones,Electronics,4,161.45,0.25,Midwest,Partner,Credit Card
+TXN1000865,2023-11-03,CUST013634,P5003,Security Monitoring Plan,Software,1,143.83,0.0,West,Online,Invoice
+TXN1000866,2023-06-05,CUST013324,P5002,Analytics Platform License,Software,3,213.46,0.05,Midwest,Online,Debit Card
+TXN1000867,2023-03-30,CUST005239,P5001,Project Management Suite,Software,4,34.29,0.3,South,Retail Store,Debit Card
+TXN1000868,2024-10-07,CUST005589,P1002,Wireless Headphones,Electronics,3,141.18,0.0,South,Retail Store,Credit Card
+TXN1000869,2025-05-14,CUST005696,P1003,Smartphone Max,Electronics,1,996.43,0.2,Midwest,Wholesale,Credit Card
+TXN1000870,2025-07-11,CUST000663,P4003,Travel Backpack,Apparel,1,87.08,0.15,Midwest,Online,ACH
+TXN1000871,2025-04-05,CUST012813,P1001,Laptop Pro 14,Electronics,6,1384.73,0.3,International,Online,Credit Card
+TXN1000872,2025-04-23,CUST000728,P6001,Commercial Printer,Office Supplies,2,407.15,0.0,Midwest,Online,Credit Card
+TXN1000873,2025-05-30,CUST015581,P2002,Standing Desk,Furniture,1,576.0,0.2,South,Wholesale,Credit Card
+TXN1000874,2024-10-31,CUST002049,P4003,Travel Backpack,Apparel,2,96.0,0.3,International,Retail Store,Debit Card
+TXN1000875,2025-01-19,CUST005582,P5002,Analytics Platform License,Software,4,245.98,0.05,International,Retail Store,Invoice
+TXN1000876,2022-12-01,CUST004613,P2003,Bookshelf,Furniture,1,170.57,0.0,South,Wholesale,ACH
+TXN1000877,2025-11-16,CUST009652,P2001,Office Chair,Furniture,4,211.96,0.05,Midwest,Online,Credit Card
+TXN1000878,2024-01-07,CUST013532,P4001,Running Shoes,Apparel,4,143.61,0.05,Northeast,Online,PayPal
+TXN1000879,2023-01-25,CUST007139,P4001,Running Shoes,Apparel,1,110.12,0.1,International,Retail Store,Credit Card
+TXN1000880,2023-11-13,CUST014614,P2003,Bookshelf,Furniture,2,184.3,0.1,West,Inside Sales,PayPal
+TXN1000881,2025-05-12,CUST014633,P4001,Running Shoes,Apparel,2,143.43,0.1,South,Online,Credit Card
+TXN1000882,2024-10-30,CUST009986,P5003,Security Monitoring Plan,Software,5,153.58,0.0,Northeast,Online,PayPal
+TXN1000883,2022-09-07,CUST005638,P3001,Coffee Maker,Home & Kitchen,5,130.41,0.0,Northeast,Online,PayPal
+TXN1000884,2023-10-25,CUST015018,P1003,Smartphone Max,Electronics,2,992.81,0.0,West,Online,Debit Card
+TXN1000885,2025-01-10,CUST010829,P2002,Standing Desk,Furniture,2,609.44,0.15,Midwest,Retail Store,Debit Card
+TXN1000886,2024-10-31,CUST009934,P2003,Bookshelf,Furniture,2,183.84,0.15,South,Retail Store,Credit Card
+TXN1000887,2022-10-26,CUST010889,P1002,Wireless Headphones,Electronics,1,134.1,0.1,West,Inside Sales,ACH
+TXN1000888,2024-12-24,CUST004256,P1003,Smartphone Max,Electronics,2,823.06,0.1,Midwest,Inside Sales,Debit Card
+TXN1000889,2024-10-07,CUST005632,P4002,Performance Jacket,Apparel,5,179.92,0.15,West,Retail Store,Credit Card
+TXN1000890,2022-12-26,CUST000369,P2002,Standing Desk,Furniture,1,518.44,0.1,West,Partner,ACH
+TXN1000891,2023-04-17,CUST014367,P6001,Commercial Printer,Office Supplies,4,527.53,0.1,South,Online,Debit Card
+TXN1000892,2023-09-30,CUST002524,P1004,4K Monitor,Electronics,1,346.61,0.05,Midwest,Retail Store,Credit Card
+TXN1000893,2024-10-05,CUST000196,P1002,Wireless Headphones,Electronics,1,139.05,0.2,South,Retail Store,PayPal
+TXN1000894,2025-11-09,CUST000112,P5001,Project Management Suite,Software,2,44.26,0.1,Midwest,Online,Debit Card
+TXN1000895,2025-12-26,CUST008740,P5002,Analytics Platform License,Software,2,264.08,0.05,South,Retail Store,Debit Card
+TXN1000896,2024-10-25,CUST000622,P2001,Office Chair,Furniture,1,251.8,0.2,South,Retail Store,PayPal
+TXN1000897,2023-09-20,CUST007107,P1003,Smartphone Max,Electronics,2,926.74,0.0,West,Retail Store,Credit Card
+TXN1000898,2022-05-04,CUST012264,P1003,Smartphone Max,Electronics,2,981.29,0.05,West,Retail Store,PayPal
+TXN1000899,2024-06-10,CUST005264,P3002,Air Fryer,Home & Kitchen,1,132.53,0.0,International,Partner,Credit Card
+TXN1000900,2023-12-13,CUST004647,P3001,Coffee Maker,Home & Kitchen,3,136.52,0.25,Northeast,Online,Invoice
+TXN1000901,2024-10-01,CUST011072,P1004,4K Monitor,Electronics,1,300.47,0.05,South,Retail Store,Invoice
+TXN1000902,2025-11-24,CUST012032,P1001,Laptop Pro 14,Electronics,7,1185.23,0.1,West,Partner,PayPal
+TXN1000903,2022-09-26,CUST000450,P3002,Air Fryer,Home & Kitchen,5,156.84,0.1,West,Online,PayPal
+TXN1000904,2023-07-21,CUST001509,P6001,Commercial Printer,Office Supplies,1,465.36,0.0,South,Online,ACH
+TXN1000905,2024-05-16,CUST008271,P4002,Performance Jacket,Apparel,2,190.19,0.0,South,Online,Credit Card
+TXN1000906,2023-06-22,CUST003016,P3002,Air Fryer,Home & Kitchen,3,123.88,0.2,Midwest,Retail Store,Credit Card
+TXN1000907,2022-10-09,CUST006317,P1002,Wireless Headphones,Electronics,1,147.44,0.0,West,Retail Store,Credit Card
+TXN1000908,2024-06-19,CUST007152,P1004,4K Monitor,Electronics,5,337.76,0.1,West,Wholesale,PayPal
+TXN1000909,2022-03-16,CUST002762,P2001,Office Chair,Furniture,2,206.63,0.0,Northeast,Inside Sales,ACH
+TXN1000910,2023-07-30,CUST000255,P5001,Project Management Suite,Software,1,43.26,0.05,South,Retail Store,Credit Card
+TXN1000911,2025-12-03,CUST011812,P5002,Analytics Platform License,Software,7,274.73,0.0,Midwest,Online,Invoice
+TXN1000912,2023-12-09,CUST008455,P5003,Security Monitoring Plan,Software,7,154.47,0.15,West,Online,Debit Card
+TXN1000913,2022-06-23,CUST004442,P6002,Desk Organizer Set,Office Supplies,3,38.17,0.05,Northeast,Online,Invoice
+TXN1000914,2025-05-29,CUST001765,P6002,Desk Organizer Set,Office Supplies,2,31.55,0.05,Midwest,Retail Store,Credit Card
+TXN1000915,2022-10-12,CUST004157,P6001,Commercial Printer,Office Supplies,3,439.97,0.0,Northeast,Partner,ACH
+TXN1000916,2023-01-02,CUST001823,P1001,Laptop Pro 14,Electronics,2,1419.42,0.25,South,Online,PayPal
+TXN1000917,2025-11-21,CUST004081,P1002,Wireless Headphones,Electronics,1,171.23,0.25,Northeast,Inside Sales,PayPal
+TXN1000918,2025-02-18,CUST010873,P2001,Office Chair,Furniture,6,230.75,0.25,Northeast,Wholesale,Credit Card
+TXN1000919,2023-05-10,CUST008167,P3003,Cookware Set,Home & Kitchen,2,272.06,0.0,Northeast,Wholesale,Credit Card
+TXN1000920,2024-08-30,CUST007283,P1002,Wireless Headphones,Electronics,5,143.92,0.15,Midwest,Retail Store,Debit Card
+TXN1000921,2023-12-19,CUST013950,P5002,Analytics Platform License,Software,1,260.57,0.0,South,Online,Debit Card
+TXN1000922,2025-08-23,CUST007750,P4001,Running Shoes,Apparel,1,137.7,0.0,West,Inside Sales,PayPal
+TXN1000923,2024-04-21,CUST001221,P3003,Cookware Set,Home & Kitchen,1,263.85,0.1,Northeast,Retail Store,Debit Card
+TXN1000924,2024-09-18,CUST005984,P1003,Smartphone Max,Electronics,2,902.7,0.15,Northeast,Retail Store,Debit Card
+TXN1000925,2022-09-02,CUST002693,P1004,4K Monitor,Electronics,3,331.58,0.1,South,Online,Credit Card
+TXN1000926,2022-12-31,CUST013040,P1003,Smartphone Max,Electronics,1,829.41,0.25,West,Online,Credit Card
+TXN1000927,2022-02-21,CUST012271,P5002,Analytics Platform License,Software,7,230.34,0.05,Northeast,Online,Credit Card
+TXN1000928,2024-06-03,CUST009292,P4001,Running Shoes,Apparel,1,140.91,0.0,Northeast,Online,Credit Card
+TXN1000929,2024-04-24,CUST011211,P4003,Travel Backpack,Apparel,2,103.08,0.1,West,Online,ACH
+TXN1000930,2023-04-17,CUST005470,P2001,Office Chair,Furniture,3,262.83,0.05,Northeast,Online,ACH
+TXN1000931,2022-12-13,CUST013780,P2002,Standing Desk,Furniture,3,607.18,0.3,South,Partner,PayPal
+TXN1000932,2023-11-11,CUST002120,P2003,Bookshelf,Furniture,1,191.26,0.1,South,Partner,Credit Card
+TXN1000933,2022-06-27,CUST000447,P5001,Project Management Suite,Software,2,45.59,0.05,Northeast,Inside Sales,Debit Card
+TXN1000934,2025-06-25,CUST002580,P5001,Project Management Suite,Software,1,36.9,0.2,International,Online,Debit Card
+TXN1000935,2025-05-25,CUST010948,P1003,Smartphone Max,Electronics,1,991.31,0.1,Midwest,Partner,Credit Card
+TXN1000936,2024-06-15,CUST006404,P5003,Security Monitoring Plan,Software,4,159.94,0.1,South,Online,Credit Card
+TXN1000937,2025-09-05,CUST007465,P1002,Wireless Headphones,Electronics,4,147.75,0.1,South,Wholesale,PayPal
+TXN1000938,2024-07-10,CUST007088,P5003,Security Monitoring Plan,Software,3,147.92,0.05,Midwest,Online,Credit Card
+TXN1000939,2023-12-22,CUST013767,P1002,Wireless Headphones,Electronics,3,144.1,0.15,West,Inside Sales,Credit Card
+TXN1000940,2024-06-21,CUST002372,P1004,4K Monitor,Electronics,3,343.1,0.1,South,Online,Debit Card
+TXN1000941,2022-05-31,CUST014073,P5002,Analytics Platform License,Software,1,247.72,0.1,Midwest,Partner,Credit Card
+TXN1000942,2022-11-27,CUST002206,P1003,Smartphone Max,Electronics,2,1134.34,0.05,South,Partner,ACH
+TXN1000943,2024-04-17,CUST013706,P2003,Bookshelf,Furniture,2,178.66,0.2,Northeast,Wholesale,ACH
+TXN1000944,2022-07-09,CUST014826,P3001,Coffee Maker,Home & Kitchen,4,109.49,0.15,South,Online,Credit Card
+TXN1000945,2025-04-20,CUST015706,P1004,4K Monitor,Electronics,3,345.77,0.05,Midwest,Online,Credit Card
+TXN1000946,2022-10-01,CUST004825,P4003,Travel Backpack,Apparel,2,108.07,0.05,South,Online,Debit Card
+TXN1000947,2023-09-29,CUST005810,P5002,Analytics Platform License,Software,1,261.21,0.0,Northeast,Retail Store,Credit Card
+TXN1000948,2023-12-16,CUST008635,P5002,Analytics Platform License,Software,3,229.78,0.3,West,Wholesale,Credit Card
+TXN1000949,2022-09-14,CUST015719,P2002,Standing Desk,Furniture,6,571.14,0.2,West,Inside Sales,Credit Card
+TXN1000950,2022-12-23,CUST007136,P3002,Air Fryer,Home & Kitchen,4,106.48,0.05,West,Online,Invoice
+TXN1000951,2023-12-15,CUST009932,P1004,4K Monitor,Electronics,2,347.72,0.05,South,Inside Sales,ACH
+TXN1000952,2022-07-01,CUST010636,P1004,4K Monitor,Electronics,1,406.2,0.0,West,Retail Store,Invoice
+TXN1000953,2022-10-23,CUST012125,P1003,Smartphone Max,Electronics,3,831.54,0.1,Midwest,Retail Store,Credit Card
+TXN1000954,2022-02-14,CUST006923,P5003,Security Monitoring Plan,Software,2,184.48,0.1,South,Retail Store,ACH
+TXN1000955,2024-01-13,CUST000074,P5002,Analytics Platform License,Software,4,247.82,0.0,South,Online,PayPal
+TXN1000956,2025-05-10,CUST006716,P5001,Project Management Suite,Software,4,43.47,0.15,Midwest,Inside Sales,Credit Card
+TXN1000957,2025-04-22,CUST003196,P3002,Air Fryer,Home & Kitchen,1,130.25,0.0,Northeast,Retail Store,Credit Card
+TXN1000958,2023-06-28,CUST000942,P3002,Air Fryer,Home & Kitchen,2,150.27,0.0,Northeast,Online,Invoice
+TXN1000959,2024-10-23,CUST012802,P3002,Air Fryer,Home & Kitchen,1,139.64,0.25,Midwest,Retail Store,Credit Card
+TXN1000960,2025-12-21,CUST011366,P3003,Cookware Set,Home & Kitchen,7,222.07,0.0,West,Online,ACH
+TXN1000961,2023-10-05,CUST015007,P3001,Coffee Maker,Home & Kitchen,1,109.57,0.0,Northeast,Retail Store,ACH
+TXN1000962,2025-09-22,CUST004518,P1002,Wireless Headphones,Electronics,7,145.13,0.0,South,Retail Store,Invoice
+TXN1000963,2025-02-25,CUST008107,P1002,Wireless Headphones,Electronics,5,155.47,0.3,West,Wholesale,Credit Card
+TXN1000964,2022-10-10,CUST014174,P5003,Security Monitoring Plan,Software,1,147.31,0.0,South,Online,Credit Card
+TXN1000965,2023-11-01,CUST013773,P3002,Air Fryer,Home & Kitchen,2,154.03,0.1,Northeast,Online,Debit Card
+TXN1000966,2025-10-15,CUST008178,P6001,Commercial Printer,Office Supplies,2,468.02,0.1,Midwest,Online,Credit Card
+TXN1000967,2022-09-27,CUST009626,P1003,Smartphone Max,Electronics,1,921.53,0.25,International,Retail Store,Invoice
+TXN1000968,2022-04-17,CUST008936,P3003,Cookware Set,Home & Kitchen,4,195.68,0.0,West,Partner,Debit Card
+TXN1000969,2023-02-03,CUST006886,P1003,Smartphone Max,Electronics,2,942.89,0.25,West,Online,Debit Card
+TXN1000970,2022-01-10,CUST002710,P1004,4K Monitor,Electronics,3,361.48,0.0,International,Online,Debit Card
+TXN1000971,2022-07-30,CUST011489,P1001,Laptop Pro 14,Electronics,6,1400.38,0.3,West,Retail Store,Credit Card
+TXN1000972,2023-10-09,CUST015368,P1002,Wireless Headphones,Electronics,2,150.46,0.1,South,Online,Credit Card
+TXN1000973,2025-01-28,CUST004272,P5003,Security Monitoring Plan,Software,1,164.84,0.05,West,Online,Debit Card
+TXN1000974,2022-11-23,CUST004777,P2001,Office Chair,Furniture,1,230.39,0.0,West,Inside Sales,Invoice
+TXN1000975,2025-06-20,CUST015151,P4001,Running Shoes,Apparel,1,134.55,0.2,West,Online,ACH
+TXN1000976,2025-12-19,CUST010978,P3001,Coffee Maker,Home & Kitchen,6,109.77,0.0,West,Retail Store,PayPal
+TXN1000977,2023-11-24,CUST004555,P2003,Bookshelf,Furniture,7,155.13,0.0,Northeast,Retail Store,Credit Card
+TXN1000978,2025-12-23,CUST006555,P3002,Air Fryer,Home & Kitchen,2,125.83,0.15,Midwest,Wholesale,Debit Card
+TXN1000979,2024-05-18,CUST009235,P1003,Smartphone Max,Electronics,1,938.54,0.2,West,Online,Credit Card
+TXN1000980,2022-04-21,CUST001583,P6002,Desk Organizer Set,Office Supplies,6,33.39,0.0,South,Inside Sales,Credit Card
+TXN1000981,2022-07-06,CUST006834,P5001,Project Management Suite,Software,1,39.61,0.15,Northeast,Retail Store,PayPal
+TXN1000982,2024-01-26,CUST009592,P4003,Travel Backpack,Apparel,5,91.14,0.0,Northeast,Online,Debit Card
+TXN1000983,2025-10-03,CUST015626,P3001,Coffee Maker,Home & Kitchen,1,117.88,0.1,Midwest,Online,ACH
+TXN1000984,2022-06-19,CUST015418,P1003,Smartphone Max,Electronics,3,1022.98,0.0,Midwest,Online,Debit Card
+TXN1000985,2024-05-09,CUST012241,P5003,Security Monitoring Plan,Software,1,174.86,0.1,South,Online,PayPal
+TXN1000986,2025-04-22,CUST001662,P2002,Standing Desk,Furniture,2,578.29,0.2,West,Retail Store,Credit Card
+TXN1000987,2025-12-14,CUST003342,P1001,Laptop Pro 14,Electronics,3,1387.17,0.0,West,Wholesale,Invoice
+TXN1000988,2025-09-14,CUST006343,P2002,Standing Desk,Furniture,7,584.14,0.1,Midwest,Inside Sales,Credit Card
+TXN1000989,2022-06-30,CUST012150,P5001,Project Management Suite,Software,1,35.51,0.0,West,Online,ACH
+TXN1000990,2022-05-17,CUST013086,P4001,Running Shoes,Apparel,2,134.32,0.15,South,Retail Store,Credit Card
+TXN1000991,2022-11-13,CUST008176,P4003,Travel Backpack,Apparel,1,98.38,0.0,South,Wholesale,Credit Card
+TXN1000992,2023-02-28,CUST011429,P5001,Project Management Suite,Software,1,39.2,0.0,West,Online,Debit Card
+TXN1000993,2025-07-14,CUST012116,P1003,Smartphone Max,Electronics,1,841.11,0.05,West,Retail Store,Credit Card
+TXN1000994,2024-08-26,CUST010962,P5003,Security Monitoring Plan,Software,1,151.73,0.0,Midwest,Online,Debit Card
+TXN1000995,2025-10-29,CUST014154,P3001,Coffee Maker,Home & Kitchen,5,119.25,0.0,South,Online,PayPal
+TXN1000996,2023-09-29,CUST006670,P4001,Running Shoes,Apparel,5,124.49,0.0,West,Wholesale,Debit Card
+TXN1000997,2023-09-17,CUST003900,P1001,Laptop Pro 14,Electronics,1,1477.68,0.15,West,Retail Store,ACH
+TXN1000998,2023-02-27,CUST010180,P6002,Desk Organizer Set,Office Supplies,1,33.04,0.1,South,Online,PayPal
+TXN1000999,2023-10-24,CUST009688,P2001,Office Chair,Furniture,1,228.99,0.15,South,Retail Store,Credit Card

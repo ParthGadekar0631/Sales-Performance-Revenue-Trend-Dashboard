@@ -1,0 +1,9 @@
+kpi_name,kpi_value,unit,description
+Total Revenue,39130012.31,USD,Net revenue after discounts
+Total Orders,50000.0,Orders,Unique sales transactions
+Total Units Sold,125666.0,Units,Quantity sold across all transactions
+Average Transaction Value,782.6,USD,Average net revenue per order
+Total Discount Amount,3359387.47,USD,Total discounts applied
+Latest Month Revenue,1126845.39,USD,Revenue for 2025-12
+Latest Monthly Growth %,5.6,Percent,Growth for 2025-12
+Previous Month Revenue,1067052.64,USD,Comparison baseline for latest month

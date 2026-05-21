@@ -1,0 +1,6 @@
+sales_channel,total_revenue,gross_revenue,discount_amount,total_orders,total_units_sold,average_transaction_value,revenue_contribution_pct,revenue_rank
+Online,16425878.45,17851872.19,1425993.74,21093,52646,778.74,41.98,1
+Retail Store,9713483.04,10543389.47,829906.43,12474,31386,778.7,24.82,2
+Wholesale,5067025.66,5500046.74,433021.08,6450,16285,785.59,12.95,3
+Inside Sales,4109688.94,4456070.83,346381.89,5053,12907,813.32,10.5,4
+Partner,3813936.22,4138020.55,324084.33,4930,12442,773.62,9.75,5
