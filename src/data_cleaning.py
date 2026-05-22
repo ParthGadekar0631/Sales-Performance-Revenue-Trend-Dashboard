@@ -49,7 +49,7 @@ def clean_sales_data(raw_df: pd.DataFrame) -> pd.DataFrame:
     duplicate_count = int(df.duplicated(subset=["transaction_id"]).sum())
     df = df.drop_duplicates(subset=["transaction_id"], keep="first")
 
-    df["transaction_date"] = pd.to_datetime(df["transaction_date"], errors="coerce")
+    df["transaction_date"] = pd.to_datetime(df["transaction_date"], format="%Y-%m-%d", errors="coerce")
     invalid_dates = int(df["transaction_date"].isna().sum())
     df = df.dropna(subset=["transaction_date"])
 
@@ -90,4 +90,3 @@ def clean_sales_data(raw_df: pd.DataFrame) -> pd.DataFrame:
         len(df),
     )
     return df
-
